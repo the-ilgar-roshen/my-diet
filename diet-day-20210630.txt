@@ -1,0 +1,46 @@
+// [2021.06.30 23:52:55] 
+// remove this line: A9BAE928EF91D7524CA58ED16C233713F504918BDA30B3100C75261DA0436BFA
+
+--------------------------------------------------------------------------------
+30.06.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+15:08 start (woke-up:  11:25, 13:08, 14:42; active-thinking: 1; active: 1; stand-up: 15:08)
+
+15:22 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' mouth-dry a little '; ")
+
+15:32 prepare: tea_with_cucumber_carrot_1 = brew(cucumber(~35g) +carrot(15g) +water(~250-ml; '~99°C or just hot') +tea(~1.5-ts; 15:46)); (" boil: 15:36; note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+16:00 drinking: tea_with_cucumber_carrot_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+16:00 eating: mix(cucumber(~30g; 'from-home') +oil(~10-ml) +salt(~0.5-ml) +onion(20g; 'from-home') +tea_with_cucumber_carrot_1-carrot()); ("~15*0.3+81*2+40*0.2+40*0.15 = ~180 kcal; done-consuming: 16:03; opinion: ' ... '; ")
+16:00 eating: tea_with_cucumber_carrot_1-cucumber(), oil(~10-ml); ("~15*0.35+81*1 = ~86 kcal; done-consuming: 16:02; opinion: ' ... '; ")
+16:03 status: calorie-calculated: "~0 + 180 + 86 = ~266 kcal"; " opinion: ' ... '; note: ' dont trust these foods bought not by me in 2021/06/28 '; ";
+
+21:15 status: " walk 16:57 - 21:15 [not all of it was walking; only ~1.5 hour was] "
+
+21:36 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:41 prepare: tea_with_cucumber_onion_carrot_garlic_1 = brew(cucumber(~30g; 'same as before') +onion(~15g) +water(~250-ml; '~99°C or just hot') +carrot(15g; 22:50) +garlic(~26g; 22:56) +tea(1-ts; 22:51)); (" boil: ~22:48 - 22:51; note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+23:00 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+23:27 eating: tea_with_cucumber_onion_carrot_garlic_1-cucumber(); ("~15*000+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:27 eating: tea_with_cucumber_onion_carrot_garlic_1-onion(); ("~40*000+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:29 drinking: tea_with_cucumber_onion_carrot_garlic_1-liquid(), oil(~10-ml); ("~81*1 = ~81 kcal; volume: ~220-ml; opinion: ' ... '; done: 00000; ");
+23:29 eating: mix(cucumber(~30g) +salt(~0.5-ml) +oil(~20-ml) +tea_with_cucumber_onion_carrot_garlic_1-garlic() +tea_with_cucumber_onion_carrot_garlic_1-carrot()); ("~15*0.3+81*2+149*0.26+40*0.15 = ~211 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:29 eating: onion(~15g) +salt(~0.5-ml), oil(~20-ml); ("~40*0.15+81*2 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:35 status: calorie-calculated: "~81 + 211 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+
+
+
+-[goods] day-calorie: "~266 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "16:03, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-note: " water 3-litre heating: 21:25; boil: ; filled at ~21:24 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(~2.5-ts; '1ts=2g');
+-[goods] oil(~70-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1.5-ml; '1ts=9ml=~11g');
+-[pipi] 16:10, 
+-[pipi] '200', 
+-[pipi] 'orange', 
+-[stool] no
+}
+
