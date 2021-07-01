@@ -1,5 +1,5 @@
-// [2021.07.01 15:33:45] 
-// remove this line: 987FA3778775AB2AA2A51E4C6CCFE221331110D483AD5BAD175B7AF54CF4C5C9
+// [2021.07.01 23:16:18] 
+// remove this line: 465C49D3A2901200D0412E0C907113B93B6DAEBEE741A1F2F64080D5B64A3EA0
 
 --------------------------------------------------------------------------------
 01.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
@@ -18,9 +18,9 @@
 
 14:18 drinking: tea_with_carrot_cucumber_onion_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
 14:18 eating: mix(cucumber(~30g) +salt(~0.5-ml) +oil(~20-ml) +tea_with_cucumber_onion_carrot_garlic_1-carrot()); ("~15*0.3+81*2+40*0.15 = ~172 kcal; done-consuming: ~14:24; opinion: ' ... '; ")
-14:19 eating: onion(~20g) +salt(~0.25-ml; 'roughly'), oil(~20-ml); ("~40*0.2+81*2 = ~000 kcal; done-consuming: ~14:24; opinion: ' ... '; ")
-14:25 eating: tea_with_carrot_cucumber_onion_1-cucumber(); ("~15*0.3+81*0 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
-14:26 status: calorie-calculated: "~0 + 172 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+14:19 eating: onion(~20g) +salt(~0.25-ml; 'roughly'), oil(~20-ml); ("~40*0.2+81*2 = ~170 kcal; done-consuming: ~14:24; opinion: ' ... '; ")
+14:25 eating: tea_with_carrot_cucumber_onion_1-cucumber(); ("~15*0.3+81*0 = ~4 kcal; done-consuming: 00000; opinion: ' ... '; ")
+14:26 status: calorie-calculated: "~0 + 172 + 170 + 4 = ~346 kcal"; " opinion: ' ... '; note: ' ... '; ";
 
 14:27 status: " feels slightly nausea; maybe because of liver and the lack of citric-acid [or bitter tea or ...] "
 
@@ -29,16 +29,32 @@
 
 15:25 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' did not want to consume [at all] '; ")
 
+17:21 status: " and this is healthy [?] "
+
+20:38 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' maybe '; [data-add-time: 2021.07.01 ~22:05]  ")
+
+20:39 prepare: carrot_cucumber_tomato_eggplant_boiled_1 = fry(carrot(10g) +cucumber(30g) +water(~200-ml; 'hot') +tomato(~40g; 'from-home; maybe bought-today; warning: almost all these tomatoes had holes in them') +eggplant-skin()); ("~000+000 = ~000 kcal; boiling: 21:54; stop: 22:02; note: ' boiled in ~metal-pan years long ~tefal; boils for about 30 minutes usually '; ")
+22:02 prepare: tea_with_vegetables_1 = brew(carrot_cucumber_tomato_eggplant_boiled_1() +tea(~0.9-ts)); ("note: ' tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+22:19 drinking: tea_with_vegetables_1-liquid(); ("~0 kcal; volume: ~100-ml; opinion: ' ... '; done: ~22:23; ");
+22:22 eating: tea_with_vegetables_1-carrot(), tea_with_vegetables_1-cucumber(), tea_with_vegetables_1-tomato(); ("~40*0.1+15*0.3+74*0.4 = ~38 kcal; done-consuming: ~22:20; opinion: ' ... '; ")
+22:22 eating: mix(cucumber(~25g) +salt(~0.5-ml) +oil(~10-ml) +eggplant(~15g; 'type: round bought-today') +oil(~10-ml)); ("~15*0.25+25*0.15+81*2 = ~170 kcal; done-consuming: 22:22; opinion: ' ... '; ")
+22:22 eating: garlic(~8g; 'same'), eggplant(~10g; 'same'); ("~149*0.08+25*0.1 = ~14 kcal; done-consuming: 22:22; opinion: ' ... '; ")
+22:22 eating: cabbage(~50g; 'same'), onion(~20g); ("~25*0.5+40*0.2 = ~20 kcal; done-consuming: 22:26; opinion: ' ... '; ")
+22:26 status: calorie-calculated: "~0 + 38 + 170 + 14 + 20 = ~242 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:07 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
 
 
 
--[goods] day-calorie: "~24  +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
--[goods] day-calorie: "13:23, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+
+-[goods] day-calorie: "~24  +  346 +  242 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "13:23, 14:26, 22:26, 00000, 00000, 00000, 00000 =  0 times "; 
 -[goods] tea(1-ts; '1ts=2g');
 -[goods] oil(~40-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~0.5-ml; '1ts=9ml=~11g');
--[pipi] 13:47, 
--[pipi] '260', 
--[pipi] 'yellow', 
+-[pipi] 13:47, 23:10, 
+-[pipi] '260', '260', 
+-[pipi] 'yellow', 'yellow', 
 -[stool] 14:32 'felt too soft at first; maybe, because, slipped too quickly'
 }
 
