@@ -1,0 +1,44 @@
+// [2021.07.01 15:33:45] 
+// remove this line: 987FA3778775AB2AA2A51E4C6CCFE221331110D483AD5BAD175B7AF54CF4C5C9
+
+--------------------------------------------------------------------------------
+01.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+13:13 start (woke-up: 09:21, 12:30; active-thinking: ~13:05; active: 13:13; stand-up: 13:13)
+
+13:18 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+13:22 eating: vegetables-greens-dill(~30g; 'half of it already ... (seems not that fresh) ?'); ("~43*0.3+81*0 = ~12 kcal; done-consuming: 00000; note: ' bought-yesterday and was so fresh but ... [although was in much better state than coriander/cilantra] ? from-home '; opinion: ' ... '; ")
+13:22 eating: vegetables-greens-coriander(~10g; 'same; bought-yesterday and yesterday it was fresh'); ("~23*0.3+81*0 = ~2 kcal; done-consuming: 00000; note: ' bought-yesterday and was so fresh but already ... (seemed not well) ? from-home '; opinion: ' ... '; ")
+13:23 status: calorie-calculated: "~12 + 2 = ~14 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+13:25 prepare: tea_with_carrot_cucumber_onion_1 = boil(carrot(15g) +cucumber(30g) +onion(20g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; ~13:40)); ("note: ' boiled for a few minutes; tea brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+13:55 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:18 drinking: tea_with_carrot_cucumber_onion_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+14:18 eating: mix(cucumber(~30g) +salt(~0.5-ml) +oil(~20-ml) +tea_with_cucumber_onion_carrot_garlic_1-carrot()); ("~15*0.3+81*2+40*0.15 = ~172 kcal; done-consuming: ~14:24; opinion: ' ... '; ")
+14:19 eating: onion(~20g) +salt(~0.25-ml; 'roughly'), oil(~20-ml); ("~40*0.2+81*2 = ~000 kcal; done-consuming: ~14:24; opinion: ' ... '; ")
+14:25 eating: tea_with_carrot_cucumber_onion_1-cucumber(); ("~15*0.3+81*0 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+14:26 status: calorie-calculated: "~0 + 172 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+14:27 status: " feels slightly nausea; maybe because of liver and the lack of citric-acid [or bitter tea or ...] "
+
+14:29 status: " vomit a little [no pain, no suffering, just came out from the stomach] " [data-add-time: 2021.07.01 14:56] 
+14:57 status: " ... shortly, vomit at 14:29 and that was not painful or making me to feel suffer "
+
+15:25 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' did not want to consume [at all] '; ")
+
+
+
+
+-[goods] day-calorie: "~24  +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "13:23, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] tea(1-ts; '1ts=2g');
+-[goods] oil(~40-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~0.5-ml; '1ts=9ml=~11g');
+-[pipi] 13:47, 
+-[pipi] '260', 
+-[pipi] 'yellow', 
+-[stool] 14:32 'felt too soft at first; maybe, because, slipped too quickly'
+}
+
