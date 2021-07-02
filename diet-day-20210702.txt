@@ -1,0 +1,48 @@
+// [2021.07.02 22:18:24] 
+// remove this line: 84FCC02702B785B8EC956F59051607D20E9C74FF67E7C23DBE5F87AFBDB80248
+
+--------------------------------------------------------------------------------
+02.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+14:51 start (woke-up: ~10:05, 11:49, 13:43; active-thinking: 1; active: 14:51; stand-up: 14:51)
+
+15:32 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+15:41 prepare: tea_with_tomato_1 = boil(tomato(20g) +cucumber(15g) +eggplant-skin(~10g) +water(~200-ml; '~99°C or just hot') +tea(1-ts; 15:58)); (" boil: 15:48 - ~16:05; note: ' tea boiled and brewed in a ~plastic [...]; drinking in ~plastic or ...; prepare time is the brew time '; ");
+
+15:41 eating: bell-pepper(7g; 'those seeds in it'); ("~20*0.07 = ~1 kcal; done-consuming: 00000; opinion: ' ... '; ")
+15:50 eating: eggplant-skin(6g); ("~25*0.06 = ~2 kcal; done-consuming: 15:51; opinion: ' ... '; ")
+15:51 status: calorie-calculated: "~1 + 2 = ~3 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+16:14 drinking: tea_with_tomato_1-liquid(); ("~0 kcal; volume: ~150-ml; opinion: ' ... '; done: 00000; ");
+16:14 eating: mix(cucumber(~15g) +eggplant(15g) +salt(~0.5-ml) +oil(~15-ml)); ("~15*0.15+25*0.15+81*0.15 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+16:14 eating: cabbage(~15g), bell-pepper(20g), oil(~15-ml); ("~25*0.15+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+16:14 eating: tea_with_tomato_1-ingredients(); ("~000+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+16:21 status: calorie-calculated: "~000 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+19:16 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+21:21 prepare: tea_with_cucumber_eggplant_garlic_1 = boil(cucumber(~40g) +eggplant(~10g) +water(~200-ml; '~99°C or just hot') +garlic(24g; 'bought: 2021/06/19; 2nd one maybe had some black fungi'; 21:32) +garlic(5g; 'bought: 2021/06/19; same'; 21:38) +tea(1-ts; 21:48)); (" boil: 21:28 - 21:48; note: ' tea boiled and brewed in a ~plastic [...]; drinking in ~plastic '; ");
+
+22:02 drinking: tea_with_cucumber_eggplant_garlic_1-liquid(); ("~0 kcal; volume: ~100-ml; opinion: ' ... '; done: 00000; ");
+22:02 eating: mix(eggplant(20g) +salt(~0.5-ml) +oil(~20-ml)); ("~25*0.2+81*2 = ~167 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:02 eating: tea_with_cucumber_eggplant_garlic_1-ingredients('weird tasting garlic like something fermented'); ("~15*0.4+25*0.1+149*0.3 = ~53 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:06 status: calorie-calculated: "~0 + 167 + 53 = ~220 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+22:23 status: " quality of food-stuff bought from local supermarket[s] is deeply concerning "
+
+
+
+
+-[goods] day-calorie: "~000 +  000 +  220 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "00000, 00000, 22:06, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-note: " water 3-litre heating: 15:44; boil: 16:25; filled at 15:44 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] day-note: " water 3-litre heating: 21:10; boil: 22:10; filled at 21:10 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~50-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1-ml; '1ts=9ml=~11g');
+-[pipi] 15:29, 
+-[pipi] '260', 
+-[pipi] 'yellow', 
+-[stool] no
+}
+
