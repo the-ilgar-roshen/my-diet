@@ -1,0 +1,59 @@
+// [2021.07.04 23:30:53] 
+// remove this line: 0836D018E968CD9CA0A67469051AECBFF89DEC6FA1756E8E78D6CC07054E2ED4
+
+--------------------------------------------------------------------------------
+04.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+11:47 start (woke-up: 11:47; active-thinking: 1; active: 1; stand-up: 11:47)
+
+11:59 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+12:18 prepare: tea_1 = brew(tea(1-ts) +water(~250-ml; '~99°C or just hot')); ("note: ' tea brewed in a ~plastic; drinking in ~plastic '; ");
+
+12:47 drinking: tea_1-liquid(); ("~0 kcal; volume: ~180-ml; opinion: ' ... '; done: 00000; ");
+12:49 drinking: oil-flax_seed(10g; 'slightly more than 10 ml; bought: 2021/07/03; expires: 2021/07/03'); ("~81*1 = ~81 kcal; volume: ~12-ml; opinion: ' bitter-taste '; done: 00000; ");
+12:49 eating: cabbage(~20g), bell-pepper(~30g), oil(~10-ml); ("~25*0.2+28*0.3+81*1 = ~94 kcal; done-consuming: 00000; opinion: ' ... '; ")
+12:49 eating: hazelnuts_baked_1(11g; 'from-yesterday'), walnuts_baked_1(7g; 'from-yesterday'); ("~628*0.1+654*0.07 = ~108 kcal; done-consuming: 00000; opinion: ' ... '; ")
+13:00 status: calorie-calculated: "~0 + 81 + 94 + 108 = ~283 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+13:02 status: " they [workers and Chief of Stuff of the Supermarket] said this flax-seed oil is fresh [new] "
+
+13:36 status: " walk 13:36 - 20:14 [not all of that time but sometimes being on the outside ~near Park etc] "
+
+20:22 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+21:37 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+21:38 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+
+20:57 prepare: tea_with_garlic_cucumber_1 = brew(garlic(20g; 'bought: 2021/06/03') +cucumber(~40g; 21:01) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 21:17)); ("note: ' tea brewed in a ~plastic; drinking in ~plastic '; ");
+21:27 prepare: egg_boiled_1 = boil(egg(1; 'bought: 2021.07.04 ~20:55; neighborhood-production')); ("~154*0.39 = ~60 kcal; boil: 21:27; stop: 21:37; note: ' boiling for ~10 min.; boiled in metal-can '; ")
+
+21:49 eating: egg_boiled_1(~39g; 'warning: at 12:49 consumed rancid flax-seed oil'), oil(~5-ml); ("~60+81*0.5 = ~100 kcal; done-consuming: 00000; opinion: ' ... '; ")
+21:55 drinking: tea_with_garlic_cucumber_1-liquid(); ("~0 kcal; volume: ~120-ml; opinion: ' ... '; done: 00000; ");
+21:56 eating: mix(cucumber(~40g) +garlic(~5g) +salt(~0.5-ml) +oil(~20-ml)); ("~000+81*000 = ~000 kcal; done-consuming: 00000; opinion: ' ... '; ")
+21:57 eating: tea_with_garlic_cucumber_1-ingredients() +salt(~0.5-ml); ("~149*0.2+15*0.4 = ~36 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:00 status: calorie-calculated: "~100 + 0 + 000 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+22:39 status: " Congradulations to everyone in United States of America with Independence Day and myself " [write-time: 2021.07.04 22:39] 
+
+" I bought that flax-seed oil in Saturday, July 3, 2021 [or 2021/07/03] from local supermarket " [write-time: 2021.07.04 22:59:07] 
+" I have noticed bitter taste when consuming that flax-seed oil and looked at it's expire date "
+" expire date of that oil was in that same day when bought the oil " [write-time: 2021.07.04 22:44] 
+" and in that exact day chief of stuff in customer service of the supermarket said this is fresh " [write-time: 2021.07.04 22:45] 
+" they (workers including customer service) were ~laughing at me, calling each-other to look at me " [write-time: 2021.07.04 22:49] 
+" they were trying to ridicule or mock up me for meticulously looking (~examining, comparing) food products " [write-time: 2021.07.04 22:50] 
+" and this was the first time I trust words that those workers said without even checking this food-stuff [particularly] " [write-time: 2021.07.04 22:53] 
+
+
+
+
+-[goods] day-calorie: "~283 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "13:00, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-note: " water 3-litre heating: ~21:30; boil: ; filled at ~21:25 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(00-ts; '1ts=2g');
+-[goods] oil(~00-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~00-ml; '1ts=9ml=~11g');
+-[pipi] 12:00, 21:42, 
+-[pipi] '420', '180', 
+-[pipi] 'light-yellow', 'strong-yellow', 
+-[stool] no
+}
+
