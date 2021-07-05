@@ -1,0 +1,56 @@
+// [2021.07.05 23:06:18] 
+// remove this line: 7265ED82C99FD050C311CEBF8D05BD79279C7D54F8EFC698CD6717A7C0803191
+
+--------------------------------------------------------------------------------
+05.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+09:36 start (woke-up: 07:25, 08:55; active-thinking: 1; active: 09:36; stand-up: 09:42)
+
+09:41 drinking: water(~200-ml) +citric-acid(0-ml); (" reason: ' mouth-dry '; note: ' ... '; ")
+
+10:14 prepare: tea_with_beetroot_carrot_ginger_1 = boil(beetroot(20g; 'bought: 2021/06/19') +carrot(10g) +ginger-root(2g; 'bought: 2021/06/19, 2nd') +cucumber(10g; 'mostly skin') +tea(1-ts; 10:32) +water(~200-ml; '~99°C or just hot') +water(~50-ml)); (" boil: ~10:22 - ~10:32; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+10:36 prepare: hazelnuts_baked_1 = bake(hazelnuts(~10-nuts; 'in_shell; bought: 2021/07/03; note: cheap from [brand] supermarket')); ("~628*0.12 = ~75 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+10:36 prepare: walnuts_baked_1 = bake(walnuts(4-nuts; 'bought: 2021/07/03; note: was very cheap from [brand] supermarket')); ("~628*0.06 = ~37 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+11:01 drinking: tea_with_beetroot_carrot_ginger_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+11:01 eating: mix(cucumber(~10g) +salt(~0.5-ml) +oil(~10-ml)); ("~15*0.1+81*1 = ~82 kcal; done-consuming: 00000; opinion: ' ... '; ")
+11:01 eating: hazelnuts_baked_1(12g), walnuts_baked_1(6g), pumpkin-seeds(3g; 'bought: 2021/07/03'), oil(~5-ml); ("~75+37+81*0.5 = ~152 kcal; done-consuming: 00000; opinion: ' ... '; ")
+11:01 eating: tea_with_beetroot_carrot_ginger_1-ingredients(); ("~43*0.2+15*0.1+40*0.1 = ~14 kcal; done-consuming: 00000; opinion: ' ... '; ")
+11:10 status: calorie-calculated: "~0 + 82 + 152 + 14 = ~248 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+12:28 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+13:46 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+13:23 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+19:38 status: " walk 14:30 - 19:38 [mostly walking but for ~an hour in bus or in cab/taxi] "
+
+20:00 drinking: water(~200-ml); (" reason: ' needed '; note: ' time-approximate-roughly '; [line-added-time: 2021.07.05 20:39] ")
+
+20:38 prepare: tea_with_ginger_beet_cucumber_garlic_1 = boil(ginger-root(4g; 'bought: 2021/06/19') +beetroot(20g) +cucumber(20g) +garlic(15g; 'bought: 2021/07/03'; 20:56) +garlic(10g; 'bought-today'; 20:58) +tea(~1-ts; ~21:02) +water(~200-ml; '~99°C or just hot')); (" boil: 20:52 - ~21:02; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+20:48 prepare: egg_boiled_1 = boil(egg(1; 'bought: 2021.07.04 ~20:55; neighborhood-production')); ("~154*0.51 = ~78 kcal; boil: 20:50; stop: 21:02; note: ' boiled in metal-can '; ")
+21:11 prepare: hazelnuts_baked_1 = bake(hazelnuts(12-nuts; 'in_shell')); ("~628*0.13 = ~81 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+21:15 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+21:30 drinking: tea_with_ginger_beet_cucumber_garlic_1-liquid(); ("~0 kcal; volume: ~150-ml; opinion: ' ... '; done: 21:41; ");
+21:31 eating: mix(cucumber(20g) +salt(~0.75-ml) +egg_boiled_1() +oil(~20-ml)); ("~15*0.2+78+81*2 = ~243 kcal; done-consuming: 21:32; opinion: ' ... '; ")
+21:32 eating: tea_with_ginger_beet_cucumber_garlic_1-ingredients('even ginger'); ("~0+43*0.2+15*0.15+149*0.25 = ~48 kcal; done-consuming: 21:34; opinion: ' ... '; ")
+21:32 eating: hazelnuts_baked_1(13g), oil(~10-ml); ("~81+81*1 = ~162 kcal; done-consuming: 21:41; opinion: ' ... '; ")
+21:41 status: calorie-calculated: "~000 + 000 + 48 + 000 = ~000 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:00 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+
+
+
+-[goods] day-calorie: "~248 +  000 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "11:10, 00000, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-note: " water 3-litre heating: 22:05; boil: 21:37; filled at 22:05 from kitchen tap; boil for 10 min. or more "; 
+-[goods] tea(~2-ts; '1ts=2g');
+-[goods] oil(~45-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1.25-ml; '1ts=9ml=~11g');
+-[pipi] 09:42, 21:25, 
+-[pipi] '340', '260', 
+-[pipi] 'yellow', 'strong-yellow', 
+-[stool] no
+}
+
