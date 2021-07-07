@@ -1,0 +1,58 @@
+// [2021.07.08 00:38:11] 
+// remove this line: 7EE898BC4F785453760E0157BA28D0BE3D75431142554352339C1C7700293400
+
+--------------------------------------------------------------------------------
+07.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+15:08 start (woke-up: ~09:50, ~13:00, 15:08; active-thinking: 1; active: 15:08; stand-up: 15:08)
+
+15:14 drinking: water(~200-ml); (" reason: ' ~mouth-dry '; note: ' ... '; ")
+16:04 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+16:14 prepare: tea_with_ginger_beetroot_tomato_lemon_1 = boil(ginger-root(5g) +beetroot(~20g) +tomato-paste(10g) +water(~220-ml; '~99°C') +lemon(25g; 'half from both - same as yesterday'; 16:27) +coriander-dry(2g; 16:28) +tea(1-ts; 16:29)); (" boil: 16:20 - 16:30; note: ' boiled in ~plastic, tea brewed in a ~plastic; drinking in ~plastic; '; ");
+16:32 prepare: hazelnuts_baked_1 = bake(hazelnuts(12-nuts)); ("~628*0.12 = ~75 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+16:32 prepare: walnuts_baked_1 = bake(walnuts(4-nuts)); ("~654*0.08 = ~52 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+16:53 drinking: tea_with_ginger_beetroot_tomato_lemon_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 17:05; ");
+16:53 eating: hazelnuts_baked_1(12g), walnuts_baked_1(8g), pumpkin-seeds(5g), oil(~10-ml); ("~75+52+556*0.05+81*1 = ~235 kcal; done-consuming: 17:01; opinion: ' ... '; ")
+16:55 eating: tea_with_ginger_beetroot_tomato_lemon_1-beetroot(); ("~43*0.2+81*0 = ~8 kcal; done-consuming: ~16:57; opinion: ' ... '; ")
+17:18 eating: tea_with_ginger_beetroot_tomato_lemon_1-ginger_root(); ("~80*0.05 = ~4 kcal; done-consuming: 17:19; opinion: ' ... '; ")
+17:20 eating: tea_with_ginger_beetroot_tomato_lemon_1-lemon(); ("~47*0.25 = ~12 kcal; done-consuming: 17:21; opinion: ' ... '; ")
+17:21 status: calorie-calculated: "~0 + 235 + 8 + 4 + 12 = ~259 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+17:30 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+18:08 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+21:52 status: " walk 21:52 - 19:12 [supermarkets] "
+
+22:21 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+22:56 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:56 prepare: fish_cheese_tomato_butter_1 = fry(fish-sprouts-canned(100g) +cheese-feta(20g) +cottage-cheese(~10g) +tomato-paste(10g) +butter(10g) +oil(20-ml) +garlic(20g; 'bought: ~2021/07/03') +water(~20-ml; 23:00)); ("~180*1.00+286*0.3+115*0.1+717*0.1+81*2+149*0.2 = ~541 kcal; fry: 22:58 - ~23:02; stop: ~23:02; note: ' fried in ~metal-pan years long ~tefal; boils for about 30 minutes usually '; ")
+23:06 prepare: tea_with_ginger_cheese_tomato_1 = boil(ginger-root(2g) +cheese-feta(5g) +cheese(5g; 'Georgia') +cottage-cheese(~5g) +tomato-paste(~10g) +water(~200-ml; 'hot') +lemon(~20g; ~23:24) +tea(~0.8-ts; 23:25)); (" boil: 23:17 - 23:28; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+23:12 prepare: hazelnuts_baked_2 = bake(hazelnuts(12-nuts)); ("~628*0.1 = ~63 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+23:21 eating: fish_cheese_tomato_butter_1(), oil(~5-ml); ("~541+81*0.5 = ~581 kcal; done-consuming: 23:23; opinion: ' ... '; ")
+23:21 eating: fish-sprouts-canned(~10g) +cheese-feta(~1g) +cottage-cheese(~1g), butter(~1g); ("~180*0.1+286*0.02+717*0.01 = ~30 kcal; done-consuming: 23:23; opinion: ' not worth consuming [raw] '; note: ' warning, consumed raw milk products ... '; ")
+23:48 drinking: tea_with_ginger_cheese_tomato_1-liquid(); ("~286*0.15+115*0.1 = ~54 kcal; volume: ~200-ml; opinion: ' not-that-well [waste of resources] '; done: 23:58; ");
+23:48 eating: tea_with_ginger_cheese_tomato_1-lemon(), beetroot(~15g); ("~47*0.20+43*0.15 = ~15 kcal; done-consuming: 23:50; opinion: ' ... '; ")
+23:48 eating: hazelnuts_baked_2(~10g), oil(~15-ml); ("~63+81*1.5 = ~184 kcal; done-consuming: ~23:56; opinion: ' ... '; ")
+23:58 status: calorie-calculated: "~581 + 30 + 54 + 15 + 184 = ~864 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:58 status: " heart-beat-rate-increased a few minutes ago [for a minute] "
+
+
+
+
+-[goods] day-calorie: "~259 +  864 +  000 +  000 +  000 +  000 +  000  = ~0 kcal "; 
+-[goods] day-calorie: "17:05, 23:58, 00000, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-note: " water 3-litre heating: 22:18; boil: ; filled at ~18:00 from kitchen tap; boil for ~10 min. or more ";  [line-added-time: 2021.07.07 22:19] 
+-[goods] day-note: " water 3-litre heating: 23:19; boil: ; filled at 23:19 from kitchen tap; boil for ~10 min. or more ";  [line-added-time: 2021.07.07 22:19] 
+-[goods] tea(~1.8-ts; '1ts=2g');
+-[goods] oil(~50-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~0-ml; '1ts=9ml=~11g');
+-[pipi] 15:49, 
+-[pipi] '260', 
+-[pipi] '~strong-yellow [lighter]', 
+-[stool] no
+}
+
