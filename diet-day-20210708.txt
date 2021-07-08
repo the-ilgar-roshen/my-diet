@@ -1,0 +1,47 @@
+// [2021.07.09 00:21:11] 
+// remove this line: 24D1830DFDFE9D20296EC27A3249A5FEB64CA86A5EE4A2C51B29BD9CB1799D1D
+
+--------------------------------------------------------------------------------
+08.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+16:20 start (woke-up: 10:04, 13:24, ~15:00, 16:08; active-thinking: 1; active: 16:20; stand-up: 16:20)
+
+16:30 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+17:09 prepare: tea_with_ginger_beetroot_tomato_lemon_coriander_1 = boil(ginger-root(~5g) +beetroot(20g) +tomato-paste(10g) +water(~250-ml; '~99°C or just hot') +lemon(~20g; 17:21) +coriander-dry(2g; 17:21) +tea(1-ts; 17:21)); (" boil: 17:13 - 17:24; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+17:33 prepare: hazelnuts_baked_1 = bake(hazelnuts(~13-nuts)); ("~628*0.14 = ~88 kcal; bake: 17:33; stop: 17:37; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+17:33 prepare: walnuts_baked_1 = bake(walnuts(4-nuts)); ("~654*0.14 = ~91 kcal; bake: 17:33; stop: 17:37; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+17:47 drinking: tea_with_ginger_beetroot_tomato_lemon_coriander_1-liquid(); ("~115*0.1+47*0.2*0.5 = ~16 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+17:47 eating: hazelnuts_baked_1(~14g), walnuts_baked_1(~14g), oil(~15-ml); ("~88+91+81*1.5 = ~300 kcal; done-consuming: 00000; opinion: ' ... '; ")
+17:47 eating: tea_with_ginger_beetroot_tomato_lemon_coriander_1-ingredients(); ("~80*0.05+43*0.2+29*0.2*0.5 = ~15 kcal; done-consuming: 00000; opinion: ' ... '; ")
+17:55 status: calorie-calculated: "~16 + 300 + 15 = ~331 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+18:51 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+19:10 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+21:39 status: " walk 21:39 - 19:32 [supermarkets] "
+
+22:22 prepare: fried_fish_cheese_garlic_tomato_1 = fry(fish-sprouts-canned(~40g; 'in_tomato; as yesterday') +cheese-feta(~20g) +cottage-cheese(~40g) +oil(20-ml) +garlic(~20g; 22:25) +tomato-paste(20g)); ("~180*0.4+286*0.6+81*2+149*0.2+115*0.2 = ~458 kcal; fry: 22:23, ~22:28 - 22:30; boil: 22:25; stop: ~22:28; note: ' boiled in ~metal-pan years long ~tefal; boils for about 30 minutes usually '; ")
+22:33 prepare: tea_with_ginger_beetroot_tomato_lemon_1 = boil(ginger-root(~2g) +beetroot(~20g) +tomato-paste(20g) +water(~250-ml; '~99°C or just hot') +cheese(10g; 'G.. one'; 22:41) +cheese-feta(5g; 22:41) +lemon(~12g; 22:45) +tea(1-ts; 22:46)); (" boil: 22:39 - 22:46; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+22:35 eating: fried_fish_cheese_garlic_tomato_1(), oil(~20-ml); ("~458+81*2 = ~620 kcal; done-consuming: 22:38; opinion: ' ... '; ")
+23:08 drinking: tea_with_ginger_beetroot_tomato_lemon_1-liquid(), oil(~10-ml); ("~115*0.1+81*1 = ~92 kcal; volume: ~200-ml; opinion: ' ... '; done: 23:17; ");
+23:08 eating: tea_with_ginger_beetroot_tomato_lemon_1-ingredients(), oil(~10-ml); ("~43*0.2+286*0.15+81*1 = ~132 kcal; done-consuming: ~23:10; opinion: ' ... '; ")
+23:17 status: calorie-calculated: "~620 + 92 + 132 = ~844 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+
+
+
+-[goods] day-calorie: "~331 +  844 +  000 +  000 +  000 +  000 +  000  = ~1175 kcal "; 
+-[goods] day-calorie: "17:55, 23:17, 00000, 00000, 00000, 00000, 00000 =  2 times "; 
+-[goods] day-note: " water 3-litre heating: ~18:50; boil: 19:17; filled at ~18:50 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] day-note: " water 3-litre heating: ~21:42; boil: 22:06; filled at 19:30 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~55-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~0-ml; '1ts=9ml=~11g');
+-[pipi] 16:24, 
+-[pipi] '420', 
+-[pipi] 'yellow', 
+-[stool] no
+}
+
