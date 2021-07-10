@@ -1,0 +1,55 @@
+// [2021.07.11 01:56:57] 
+// remove this line: E72551F555718DB0A1282F59DB2494C7F96A5DDC541C67DE4243FA57682B0A1C
+
+--------------------------------------------------------------------------------
+10.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+15:48 start (woke-up: 12:01, ~13:00, 15:38; active-thinking: 1; active: 1; stand-up: 15:48)
+
+15:50 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+16:04 prepare: tea_with_ginger_carrot_beetroot_lemon_1 = boil(ginger-root(5g) +carrot(10g) +beetroot(5g) +water(~250-ml; '~99°C or just hot') +coriander-dry(~1g) +lemon(~10g) +tea(1-ts; 16:35)); (" boil: ; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+16:14 prepare: walnuts_baked_1 = bake(walnuts(5-nuts; 'in_shell')); ("~654*0.1 = ~65 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+16:24 prepare: parsley_boiled_1 = boil(vegetables-greens-parsley(65g) +water(~50-ml)); ("~23*0.65 = ~15 kcal; boil: 16:24 - 16:25; stop: ; note: ' sort-of boiled '; ")
+
+16:34 eating: parsley_boiled_1() +salt(~0.5-ml) +oil(~10-ml), bell-pepper(35g); ("~15+81*1+28*0.35 = ~106 kcal; done-consuming: 16:40; opinion: ' ... '; ")
+16:48 drinking: tea_with_ginger_carrot_beetroot_lemon_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 16:59; ");
+16:48 drinking: tea_with_ginger_carrot_beetroot_lemon_1-ingredients(); ("~40*0.1+43*0.05 = ~6 kcal; opinion: ' ... '; done: 16:59; ");
+16:48 eating: walnuts_baked_1(10g); ("~65+81*0 = ~65 kcal; done-consuming: 00000; opinion: ' ... '; ")
+16:48 eating: chocolate-bitter-cacao_72(20g; 'bought: 2021/07/09; no-sugar, with Stevia'); ("~450*0.2 = ~90 kcal; done-consuming: 16:52; opinion: ' ... '; ")
+16:59 status: calorie-calculated: "~106 + 0 + 6 + 65 + 90 = ~267 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+17:20 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+20:21 status: " walk 20:21 - 17:38 [went to supermarket] "
+
+20:27 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:21 prepare: fried_tomato_beans_carrot_cabbage_fish_garlic_cheese_1 = soft-fry(tomato(80g) +beans-green(~10g; 'bought-today') +carrot(~12g) +cabbage-red(~60g) +fish-sardines-canned(80g; 22:31) +liquid(~40g; 'from: fish-sardines-canned') +oil(~20-ml; 22:35) +bell-pepper(~35g) +garlic(60g; 'bought-today'; 22:36) +tomato-paste(10g) +cheese-white(~20g) +vegetables-greens-dill(20g; 22:40)); ("~74*0.8+131*0.1+40*0.12+31*0.6+180*1.2+81*2+28*0.35+149*0.6+115*0.1+286*0.2+35*0.2 = ~648 kcal; boil: ; fry: ; stop: ~21:40; note: ' boiled in ~metal-pan years long ~tefal; boils for about 30 minutes usually '; ")
+22:49 prepare: tea_with_ginger_pepper_tomato_cheese_lemon_1 = boil(ginger-root(2g) +pepper-spicy(2g) +tomato-paste(10g) +cheese-white(~10g) +water(~250-ml; '~99°C or just hot') +beans-green(~15g; 'bought-today') +tarragon(~10g; 'bought-today'; 23:04) +tea(1-ts; 23:09) +lemon(~10g; 23:18)); (" heating: 23:18; boil: 22:59 - 23:09; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+22:53 eating: fried_tomato_beans_carrot_cabbage_fish_garlic_cheese_1() +salt(~0.5-ml), oil(~10-ml); ("~648+81*1 = ~729 kcal; done-consuming: 22:59; opinion: ' ... '; ")
+22:59 status: calorie-calculated: "~0 + 729 = ~729 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:36 status: " feels-weird and stomach or nausea or something else already a few minutes " [line-added-time: 2021.07.10 23:53] 
+23:46 status: " feels-ok [compare to that] " [line-added-time: 2021.07.10 23:54] 
+
+23:49 drinking: tea_with_ginger_pepper_tomato_cheese_lemon_1-liquid(); ("~115*0.1 = ~11 kcal; volume: ~200-ml; opinion: ' ~unpleasant '; done: 00000; ");
+23:49 drinking: tea_with_ginger_pepper_tomato_cheese_lemon_1-ingredients(); ("~80*0.02+27*0.02+286*0.1+131*0.15+47*0.1 = ~55 kcal; volume: ~220-ml; opinion: ' ~unpleasant '; done: 00000; ");
+23:50 eating: walnuts(10g; 'bought-today'); ("~654*0.1 = ~65 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:59 status: calorie-calculated: "~11 + 55 + 65 = ~131 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+
+
+
+-[goods] day-calorie: "~267 +  729 +  131 +  000 +  000 +  000 +  000  = ~1127 kcal "; 
+-[goods] day-calorie: "16:59, 22:59, 23:59, 00000, 00000, 00000, 00000 =  0 times "; 
+-[goods] day-note: " water 3-litre heating: 21:33; boil: 22:00; filled at 21:32 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(~1.8-ts; '1ts=2g');
+-[goods] oil(~40-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1-ml; '1ts=9ml=~11g');
+-[pipi] 17:10, 
+-[pipi] '260', 
+-[pipi] 'strong-yellow', 
+-[stool] no
+}
+
