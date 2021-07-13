@@ -1,0 +1,38 @@
+// [2021.07.13 19:14:58] 
+// remove this line: B61D29D13FD836ABEF4CB915DC9BBF0F2B2D6C0348B188256C4737E7FA44BA96
+
+--------------------------------------------------------------------------------
+12.07.2021 : " pipi-180,  1; water-total-1000; calorie-11,   0; [ fasting '~no-food whole day' ] " {
+
+08:30 start (woke-up: 08:30; active-thinking: 1; active: 08:30; stand-up: 08:30)
+
+08:39 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+13:48 status: " walk 08:50 - 13:48 [more than half of time was just sitting ~near trees or so] "
+
+13:53 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+13:55 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:36 eating: pumpkin-seeds(~2g; 'or less'); ("~559*0.02 = ~11 kcal; done-consuming: ~14:39; opinion: ' ... '; ")
+14:39 status: calorie-calculated: "~0 + 11 = ~11 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+14:40 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+15:56 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+17:43 status: " walk 16:11 - 17:43 [actually, just ... city] "
+
+20:35 status: " woke-up [had a nap] "
+21:35 status: " woke-up [had a nap] "
+
+
+-[goods] day-calorie: "~11  +  000 +  000 +  000 +  000 +  000 +  000  = ~11 kcal "; 
+-[goods] day-calorie: "14:36, 00000, 00000, 00000, 00000, 00000, 00000 =  1 times "; 
+-[goods] day-note: " water 3-litre heating: 22:35; boil: ; filled at 22:06 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(0-ts; '1ts=2g');
+-[goods] oil(0-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(0-ml; '1ts=9ml=~11g');
+-[pipi] 08:37, 
+-[pipi] '180', 
+-[pipi] 'yellow [lighter]', 
+-[stool] no
+}
+
