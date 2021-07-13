@@ -1,0 +1,79 @@
+// [2021.07.14 00:23:08] 
+// remove this line: 7795690FD323F052C6ADB555A6BB1BEF325234A59698335B1D336217F5FF7B55
+
+--------------------------------------------------------------------------------
+13.07.2021 : " pipi-0000, 0; water-total-0000; calorie-0000, 0; " {
+
+00:00 start (woke-up: 00:00; active-thinking: 1; active: 1; stand-up: 00:00)
+
+00:00 status: " woke-up in 2021/07/12 at 21:35 but starting today's diet from 2021/07/13 00:00 " [line-added-time: 2021.07.13 00:37] 
+
+00:11 prepare: greens_with_garlic_lemon_in_vinegar_1 = moist(greens-parsley(40g) +greens-coriander(40g) +greens-dill(40g) +greens-lettuce(40g) +greens-grape_leaves(20g) +water(~50-ml) +vinegar(~20-ml) +lemon(~20g) +salt(~0.5-ml) +garlic(~25g)); ("~36*0.4+23*0.4+43*0.4+15*0.4+47*0.2+149*0.25 = ~93 kcal; note: ' ... '; ")
+
+00:21 drinking: water(~200-ml) +lemon(~20g) +vinegar(~10-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+00:21 eating: greens-lettuce(~20g), greens-purslane(~40g); ("~15*0.2+20*0.4 = ~11 kcal; done-consuming: 00000; opinion: ' ... '; ")
+00:21 status: calorie-calculated: "~0 + 11 = ~11 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+00:31 prepare: tea_with_ginger_carrot_pepper_lemon_1 = boil(ginger-root(~5g; 'bought: 2021/07/09') +carrot(5g) +pepper-spicy(2g) +water(~250-ml; '~99°C or just hot') +greens-mint(~1g; 'even less') +lemon(~10g; 00:52) +tea(1-ts; 00:54)); (" boil: 00:43; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+01:10 eating: greens_with_garlic_lemon_in_vinegar_1(), oil(~10-ml); ("~93+81*1 = ~174 kcal; done-consuming: 01:25; opinion: ' ... '; ")
+01:25 drinking: tea_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: ~01:35; ");
+01:25 eating: hazelnuts-fresh(20g; 'bought: 2021/07/11'), walnuts(10g); ("~628*0.2+654*0.1 = ~187 kcal; done-consuming: 01:33; opinion: ' ... '; ")
+01:28 eating: chocolate-bitter-cacao_72(5g; 'Stevia only'); ("~450*0.05 = ~3 kcal; done-consuming: ~01:30; opinion: ' ... '; ")
+01:35 eating: tarragon(~20g); ("~295*0.2 = ~6 kcal; done-consuming: ~01:38; opinion: ' ... '; ")
+01:35 eating: walnuts(~10g); ("~654*0.1 = ~65 kcal; done-consuming: 01:52; opinion: ' ... '; ")
+01:52 status: calorie-calculated: "~174 + 0 + 187 + 3 + 6 + 65 = ~435 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+02:40 drinking: water(~200-ml) +lemon-rind(~5g); (" reason: ' for-hydration '; note: ' ... '; ")
+04:26 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+04:59 status: " head-pain from the neck back into inside of head top of the left hemisphere "
+05:25 status: " feels relatively better [compare to that head-pain state] "
+
+05:26 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+08:31 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+15:27 status: " sleep after ~09:30; woke-up 14:25, 15:25 "
+
+15:30 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+15:27 status: " sleep after ~15:30; woke-up ~16:05, 17:02 "
+18:39 status: " stand-up "
+
+18:40 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+19:03 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+20:50 prepare: greens_with_garlic_lemon_in_vinegar_1 = moist(garlic(40g) +greens-parsley(~5g) +greens-coriander(~5g) +greens-dill(~5g) +greens-lettuce(~30g) +greens-grape_leaves(10g) +water(~50-ml) +vinegar(~20-ml) +lemon(15g) +salt(~0.5-ml)); ("~149*0.4+36*0.05+23*0.05+43*0.05+15*0.30+93*0.1+47*0.15 = ~85 kcal; note: ' ... '; ")
+21:11 prepare: walnuts_baked_1 = bake(walnuts(7-nuts; 'in_shell; washed with soap as usually')); ("~654*0.1 = ~65 kcal; bake: 21:11; stop: 21:15; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+21:15 prepare: hazelnuts_baked_1 = bake(hazelnuts-fresh(20-nuts; 'in_shell; washed with soap as usually')); ("~628*0.1 = ~63 kcal; bake: 21:15; stop: 21:19; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+21:19 prepare: peanuts_baked_1 = bake(peanuts(25-nuts; 'in_shell; washed with soap')); ("~567*0.3 = ~170 kcal; bake: 21:15; stop: 21:19; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+22:01 prepare: meal_tomato_cabbage_pepper_fish_cheese_1 = fry(tomato(~80g) +eggplant(~40g) +cabbage-red(~75g; 22:03) +bell-pepper(45g; 22:06) +fish-sardines-canned(100g; 22:10) +oil(30-ml; ~22:12) +cheese-feta(20g; ~22:12)); ("~74*0.8+0.25*0.4+31*0.75+28*0.45+180*1+81*3+286*0.2 = ~575 kcal; boiling: ; stop: 22:15; note: ' boiled in ~metal-pan years long ~tefal '; ")
+22:20 prepare: tea_with_ginger_carrot_beans_eggplant_1 = boil(ginger-root(~5g) +carrot(~5g) +beans-green(10g) +eggplant-skin(5g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 22:37)); (" boil: 22:28 - 22:37; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+22:23 eating: meal_tomato_cabbage_pepper_fish_cheese_1() +salt(~0.5-ml), oil(~10-ml), cheese-hard(~15g); ("~575+81*1+286*0.15 = ~699 kcal; done-consuming: ~22:30; opinion: ' ... '; ")
+22:27 eating: greens_with_garlic_lemon_in_vinegar_1(); ("~85*1 = ~85 kcal; done-consuming: ~22:35; opinion: ' ... '; ")
+22:35 status: calorie-calculated: "~699 + 85 = ~784 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:10 drinking: tea_with_ginger_carrot_beans_eggplant_1-liquid() +lemon(~10g); ("~47*0.1 = ~5 kcal; volume: ~200-ml; opinion: ' ... '; done: 23:23; ");
+23:10 drinking: tea_with_ginger_carrot_beans_eggplant_1-ingredients(); ("~80*0.05+40*0.05+131*0.1+25*0.05 = ~20 kcal; opinion: ' ... '; done: ~23:20; ");
+23:10 eating: walnuts_baked_1(10g), peanuts_baked_1(30g); ("~65+170 = ~235 kcal; done-consuming: 23:23; opinion: ' ... '; ")
+23:23 status: calorie-calculated: "~5 + 20 + 235 = ~260 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:54 status: " so much calories but no-pain [which is great] "
+
+
+
+
+-[goods] day-calorie: "~11  +  435  + 784 +  260 +  000 +  000 +  000  = ~1490 kcal "; 
+-[goods] day-calorie: "00:21, 01:52, 22:35, 23:23, 00000, 00000, 00000 =  4 times "; 
+-[goods] day-note: " water 3-litre heating: 17:02; boil: 19:34; filled at 18:55 from kitchen tap; boil for ~10 min. or more "; 
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~40-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1-ml; '1ts=9ml=~11g');
+-[pipi] 01:57, 09:26, 18:53, 
+-[pipi] '260', '260', '260', 
+-[pipi] 'strong-yellow', 'light-yellow', 'yellow', 
+-[stool] no
+}
+
