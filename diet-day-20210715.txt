@@ -1,0 +1,47 @@
+// [2021.07.18 09:46:21] 
+// remove this line: 2C72A352A821CBE0E61DD0C49A2AEA67D62B4A6AF55A62C8406DCD07C2CE9017
+
+--------------------------------------------------------------------------------
+15.07.2021 : " pipi-180,  1; water-total-800;  calorie-1203, 2; [ 'ate after ~13 hours' ] " {
+
+20:24 start (woke-up: 19:24; active-thinking: 1; active: 1; stand-up: 20:24)
+
+20:43 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+21:35 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:35 prepare: greens_with_garlic_lemon_in_vinegar_1 = moist(greens-grape_leaves(~30g) +carrot(~30g) +garlic(30g) +bell-pepper(24g) +lemon-juice(~5g) +water(~20-ml; ~11:08) +salt(~0.25-ml) +cabbage-red(30g) +vinegar(~10-ml; 23:18)); ("~93*0.3+40*0.3+149*0.3+28*0.24+47*0.05+31*0.3 = ~103 kcal; note: ' ... '; ")
+23:02 prepare: tea_with_ginger_beans_pepper_tomato_1 = boil(ginger-root(5g) +beans-green(15g) +pepper-spicy(2g) +water(~250-ml; '~99°C or just hot') +tomato(60g; 23:20) +tea(1-ts; 'from new pack from-home'; 23:30)); (" boil: 23:12 - ~23:21, 23:28 - 23:30; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+23:34 eating: greens_with_garlic_lemon_in_vinegar_1(), oil(~20-ml); ("~103+81*2 = ~265 kcal; done-consuming: 23:42; opinion: ' ... '; ")
+23:42 drinking: tea_with_ginger_beans_pepper_tomato_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+23:42 eating: walnuts(10g), hazelnuts(15g; 'fresh garbage; not washed'); ("~654*0.1+628*0.15 = ~159 kcal; done-consuming: ~23:40; opinion: ' ... '; ")
+23:42 eating: tea_with_ginger_beans_pepper_tomato_1-ingredients(), oil(~20-ml); ("~80*0.05+131*0.15+20*0.02+74*0.6+81*2 = ~230 kcal; done-consuming: 23:48; opinion: ' ... '; ")
+23:48 eating: chocolate-bitter-cacao_72(2g; 'no-sugar; only Stevia'); ("~450*0.02 = ~9 kcal; done-consuming: 23:48; opinion: ' ... '; ")
+23:48 status: calorie-calculated: "~265 + 0 + 159 + 230 + 9 = ~663 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+02:12 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' disgusted by water '; ")
+
+03:44 prepare: fried_carrot_beetroot_onion_tomato_1 = fry(carrot(40g) +eggplant(25g) +water(~40-ml; 03:48) +onion(~80g; 03:49) +bell-pepper(50g) +oil(20-ml; 03:52) +salt(1-ml; 03:56) +tomato(100g; 03:58) +oil(20-ml; 04:01) +fish-sardines-canned(100g; '0.75 of it was from another can, new, from ... with caviar'; 04:02)); ("~40*0.4+28*0.25+25*0.1+40*0.8+81*4+74*0.8 = ~440 kcal; heating: 03:44; bake: ~03:45; boil: 03:48; fry: 03:52; stop: ~04:04; note: ' fried relatively well; fried in ~metal-pan years long ~tefal '; ")
+
+04:13 eating: fried_carrot_beetroot_onion_tomato_1() +salt(~0.25-ml), oil(~10-ml), garlic(10g); ("~440+81*1+149*0.1 = ~536 kcal; done-consuming: 04:18; opinion: ' ... '; ")
+04:22 eating: cabbage-red(~41g; '31+(~10)g'), onion(~40g); ("~31*0.41+40*0.4 = ~29 kcal; done-consuming: 04:23; opinion: ' ... '; ")
+04:25 eating: eggplant(~20g; 'roughly'), cucumber(~15g) +salt(~0.25-ml), lemon(~15g; 'roughly'), oil(~10-ml); ("~25*0.2+15*0.15+47*0.15+81*1 = ~95 kcal; done-consuming: 04:30; opinion: ' ... '; ")
+04:30 status: calorie-calculated: "~536 + 29 + 95 = ~660 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+06:10 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+
+
+
+-[goods] day-calorie: "~663 +  660 +  000 +  000 +  000 +  000 +  000  = ~1203 kcal "; 
+-[goods] day-calorie: "23:48, 04:30, 00000, 00000, 00000, 00000, 00000 =  2 times ";
+-[goods] day-note: " water 3-litre heating: ~20:35; filled at ~20:35 from kitchen tap; boil for ~10 min. ";  
+-[goods] day-note: " water 3-litre heating: 21:30; filled at ~21:32 from kitchen tap; boil for ~10 min. or more ";  
+-[goods] tea(1-ts; '1ts=2g');
+-[goods] oil(~100-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1.5-ml; '1ts=9ml=~11g');
+-[pipi] 23:03, 
+-[pipi] '180', 
+-[pipi] 'orange', 
+-[stool] 2021.07.16 00:20 'black'
+}
+
