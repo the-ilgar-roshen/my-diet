@@ -1,0 +1,53 @@
+// [2021.07.20 08:19:32] 
+// remove this line: 24AA1CC0594594DA1054414BD93466FBF11067660F4F73710C84D713B396B887
+
+--------------------------------------------------------------------------------
+16.07.2021 : " pipi-420,  1; water-total-800;  calorie-1082, 2; [ 'ate after ~18 hours'; grape_seed-oil ] " {
+
+20:08 start (woke-up: 16:20, 20:05; active-thinking: 1; active: 20:08; stand-up: 20:23)
+
+21:55 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:32 prepare: tea_with_ginger_carrot_1 = boil(ginger-root(5g) +carrot(15g) +eggplant-skin(~5g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 22:38)); (" boil: 22:34; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+22:38 prepare: cucumber_tomato_garlic_mixed_1 = mix(cucumber(~80g; 'grate') +tomato(60g) +garlic(10g; 'of course, grate into') +salt(0.5-ml) +oil(10-ml)); ("~15*0.8+74*0.6+149*0.1+81*1 = ~152 kcal; note: ' ... '; ")
+
+22:45 eating: cabbage-red(37g), tomato(40g), cucumber(~20g), garlic(5g); ("~31*0.37+74*0.4+15*0.2+149*0.05 = ~51 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:53 drinking: tea_with_ginger_carrot_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 23:19; ");
+22:53 eating: cucumber_tomato_garlic_mixed_1() +tea_with_ginger_carrot_1-carrot(), oil(~10-ml); ("~152+40*0.15+81*1 = ~239 kcal; done-consuming: 23:01; opinion: ' ... '; ")
+22:53 eating: bell-pepper(60g), cucumber(26g), oil(~10-ml); ("~28*0.6+15*0.26+81*1 = ~000 kcal; done-consuming: ~23:08; opinion: ' ... '; ")
+23:01 eating: grape_leaves(20g); ("~93*0.2 = ~18 kcal; done-consuming: 23:10; opinion: ' ... '; ")
+23:05 eating: tea_with_ginger_carrot_1-ginger(); ("~80*0.05 = ~4 kcal; done-consuming: 23:06; opinion: ' ... '; ")
+23:10 eating: cabbage-red(~20g; 'roughly; measured by size'), cucumber(~10g; 'roughly'), oil(~10-ml); ("~31*0.2+15*0.1+81*1 = ~89 kcal; done-consuming: 23:14; opinion: ' ... '; ")
+23:18 eating: chocolate-bitter-cacao_72(2g; 'only, Stevia'); ("~450*0.02 = ~9 kcal; done-consuming: 23:19; opinion: ' ... '; ")
+23:19 status: calorie-calculated: "~51 + 0 + 239 + 102 + 4 + 89 + 9 = ~494 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+00:27 status: " calendar day is 2021/07/17 for the next data inside of this '16.07.2021' diet day block; "
+
+00:27 status: " liver-side-disturbs already for several minutes [from ~00:12] "
+
+01:40 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' time-approximate '; ") [line-added-time: 2021.07.17 02:13] 
+
+02:11 prepare: tea_with_ginger_nutmeg_1 = boil(ginger-root(~5g) +eggplant-skin(5g) +nutmeg(~0.5-ml) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 02:14)); (" boil: 02:12 - 02:14; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+02:34 drinking: tea_with_ginger_carrot_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 02:51; ");
+02:34 eating: mix(cucumber(60g) +salt(~0.25-ml) +oil(~10-ml) +garlic(18g)); ("~15*0.6+81*1+149*0.18 = ~117 kcal; done-consuming: 02:44; opinion: ' ... '; ")
+02:34 eating: cabbage-red(~170g; '20+(~150)g'), oil(~50-ml); ("~31*1.7+81*5 = ~457 kcal; done-consuming: 02:52; opinion: ' ... '; ")
+02:43 eating: chocolate-bitter-cacao_72(2g; 'only, Stevia'); ("~450*0.02 = ~9 kcal; done-consuming: 02:43; opinion: ' ... '; ")
+02:50 eating: tea_with_ginger_carrot_1-ingredients(); ("~80*0.05+25*0.05 = ~5 kcal; opinion: ' ... '; done: 02:51; ");
+02:52 status: calorie-calculated: "~0 + 117 + 457 + 9 + 5 = ~588 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+
+
+
+-[goods] day-calorie: "~494 +  588 +  000 +  000 +  000 +  000 +  000  = ~1082 kcal "; 
+-[goods] day-calorie: "23:19, 02:52, 00000, 00000, 00000, 00000, 00000 =  2 times ";
+-[goods] day-note: " water 3-litre heating: 2021.07.17 00:58; boil: ; filled at 2021.07.16 ~22:35 from kitchen tap; boil for ~10 min. or more ";  
+-[goods] day-note: " water 3-litre heating: 2021.07.17 ~21:10; boil: 21:35; filled at 2021.07.17 ~21:08 from kitchen tap; boil for ~10 min. or more ";  
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~100-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~0.75-ml; '1ts=9ml=~11g');
+-[pipi] 20:30, 
+-[pipi] '420',  
+-[pipi] 'strong-yellow', 
+-[stool] no
+}
+
