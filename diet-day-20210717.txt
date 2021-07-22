@@ -1,0 +1,67 @@
+// [2021.07.22 21:29:41] 
+// remove this line: 8E52920B9978B2FB0DB30F70D909C0F456CB40E3AF334F2ED599D372F4C1C230
+
+--------------------------------------------------------------------------------
+17.07.2021 : " pipi-790,  3; water-total-1700; calorie-867,  2; [ 'ate after ~19 hours'; slept-0-hours; have-not-slept; ] " {
+
+08:49 start (woke-up: 2021.07.16 20:05; active-thinking: 1; active: 1; stand-up: 2021.07.16 20:23)
+
+08:49 status: " the diet day for 17.07.2021 data-block starts from the time 08:49 but have not slept since 2021.07.16 20:05 " [write-time: 2021.07.18 07:44] 
+
+08:49 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+10:23 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+10:39 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:55 status: " walk 14:55 - 10:55 [supermarkets] "
+
+15:08 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+15:16 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+15:58 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+18:08 status: " walk ~16:05 - 18:08 [~supermarkets] "
+20:41 status: " walk 20:41 - 18:12 [supermarket] "
+
+21:00 status: " bought some food-stuff such as: fish salmon, sardines, mackerel [all canned] also, other food "
+
+21:45 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+21:45 prepare: tea_with_ginger_tomato_1 = boil(ginger-root(~2g) +tomato(~20g; 'mostly skin') +eggplant-skin(10g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 22:14)); (" boil: ; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+21:45 prepare: fried_carrot_onion_tomato_fish_1 = fry(carrot(52g) +eggplant(20g) +water(~40-ml; 21:48) +onion(70g; 21:49) +bell-pepper(30g) +oil(20-ml; 21:53) +tomato(~80g; 22:01) +salt(1-ml) +oil(~20-ml) +fish-salmon-canned(60g; 'bought: 2021/07/17; prd: 2020/08/28; manufacturer: Ka..a; barcode: 4.751007.734004; from: a..z supermarket; note: has its own oil'; 22:04)); ("~40*0.52+25*0.2+40*0.7+28*0.3+81*4+74*0.8+162*0.6 = ~542 kcal; heating: 21:45; bake: ~21:46; boil: 21:48; fry: 21:53; stop: 22:08; note: ' vegetables fried well but fish almost not fried [that well]; fried in ~metal-pan years long ~tefal '; ")
+
+22:06 drinking: water(~100-ml) +citric-acid(0.5-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:11 eating: fried_carrot_onion_tomato_fish_1(), oil-grape_seed(~10-ml; 'type: grape_seed-oil; bought: 2021/07/17; from: b..o supermarket'); ("~542+81*1 = ~623 kcal; done-consuming: 22:15; opinion: ' ... '; ")
+22:11 eating: garlic(23g; 'bought: 2021/07/10'); ("~149*0.23 = ~34 kcal; done-consuming: 22:15; opinion: ' ... '; ")
+22:52 status: calorie-calculated: "~623 + 34 = ~657 kcal"; " opinion: ' fish was not that well '; note: ' ... '; ";
+
+22:52 status: " weird disturbance [feels ~heavy] in the stomach [already for a minute or so] "
+
+22:55 status: " vomiting [all of that ...] " [line-added-time: 2021.07.17 ~23:01] 
+
+23:04 drinking: water(~400-ml); (" reason: ' for-vomiting '; note: ' ... '; ")
+
+23:10 status: " vomiting [time-approximate-roughly] " [line-added-time: 2021.07.17 23:39] 
+
+
+00:35 status: " calendar day is 2021/07/18 for the next data inside of this '16.07.2021' diet day block; "
+
+00:35 drinking: tea_with_ginger_tomato_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+00:35 eating: cabbage-red(~20g), cucumber(~20g), garlic(15g; 'bought: 2021/07/10'), oil(~10-ml); ("~31*0.2+15*0.2+149*0.23+81*1 = ~125 kcal; done-consuming: 22:15; opinion: ' ... '; ")
+00:44 eating: mix(cucumber(~30g) +salt(~0.5-ml) +oil(~10-ml)); ("~15*0.3+81 = ~85 kcal; done-consuming: 22:15; opinion: ' ... '; ")
+00:46 status: calorie-calculated: "~0 + 125 + 85 = ~210 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+01:30 status: " ... "
+
+
+
+
+-[goods] day-calorie: "~657 +  210 +  000 +  000 +  000 +  000 +  000  = ~867 kcal "; 
+-[goods] day-calorie: "22:52, 00:46, 00000, 00000, 00000, 00000, 00000 =  2 times ";
+-[goods] tea(1-ts; '1ts=2g');
+-[goods] oil(~70-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~1.5-ml; '1ts=9ml=~11g');
+-[pipi] 08:43, 15:12, 23:07, 
+-[pipi] '340', '300', '150', 
+-[pipi] 'yellow, odour-tomato', 'light-yellow', 'no-data [amount-approximate-roughly]', 
+-[stool] 2021.07.17 23:07
+}
+
