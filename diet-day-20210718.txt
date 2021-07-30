@@ -1,0 +1,52 @@
+// [2021.07.30 17:38:04] 
+// remove this line: A2531FC0397D74807FAFD7E5AEC43139AE1836BF3777B07EF047782FAEBB9A8B
+
+--------------------------------------------------------------------------------
+18.07.2021 : " pipi-1080, 3; water-total-1600; calorie-492,  2; [ 'ate after ~15 hours'; slept-2-hours; ] " {
+
+04:47 start (woke-up: 03:54; active-thinking: 1; active: 04:47; stand-up: 04:47)
+
+05:54 drinking: water(~200-ml) +citric-acid(1-ml) +salt(~0.25-ml); (" reason: ' for-hydration '; opinion: ' great '; ")
+07:59 drinking: water(~200-ml) +citric-acid(1-ml) +salt(~0.25-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+10:36 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+10:50 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:14 status: " walk 11:12 - 14:14 [no bus; long walk under sun-light in warm clothes and something onto head] "
+
+14:34 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+14:56 drinking: water(~200-ml); (" reason: ' ... '; note: ' ... '; ")
+
+15:18 prepare: tea_with_ginger_carrot_clove_pumpkin_seeds_1 = boil(ginger-root(2g) +carrot(12g) +eggplant-skin(5g) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 15:26) +clove(2-cloves; 'bought: 2021/07/17; note: 2 cloves is less than gram'; 15:27) +pumpkin-seeds(5g; 'bought: 2021/07/17; note: cleaned ones; from: a..z supermarket'; 15:27)); (" boil: ~15:24 - 15:26, 15:27 - 15:30; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+15:35 eating: greens-basil_rubin(40g; 'bought-yesterday; from: b..'), greens-purslane(81g; 'bought-yesterday'), onion(52g), bell-pepper(54g); ("~23*0.4+20*0.81+40*0.52+28*0.54 = ~61 kcal; done-consuming: 15:50; opinion: ' ... '; ")
+15:45 drinking: tea_with_ginger_carrot_clove_pumpkin_seeds_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 15:58; ");
+15:45 eating: mix(cucumber(30g) +garlic(9g; 'bought: 2021/07/10') +salt(~0.5-ml) +oil(10-ml)); ("~15*0.3+149*0.09+81*1 = ~99 kcal; done-consuming: 15:50; opinion: ' ... '; ")
+15:52 eating: tea_with_ginger_carrot_clove_pumpkin_seeds_1-ingredients(); ("~80*0.02+40*0.12+25*0.05+559*0.05 = ~35 kcal; done-consuming: 15:52; opinion: ' ... '; ")
+15:55 eating: cucumber(~20g), onion(15g), oil(~20-ml); ("~15*0.2+40*0.15+81*2 = ~171 kcal; done-consuming: 15:57; opinion: ' ... '; ")
+16:05 eating: tarragon(~25g; 'bought-yesterday'); ("~49*0.25 = ~12 kcal; done-consuming: ~16:10; opinion: ' ... '; ")
+16:10 status: calorie-calculated: "~61 + 0 + 99 + 35 + 171 + 12 = ~378 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+16:30 prepare: peanuts_baked_1 = bake(peanuts(20g; 'bought-today; from: a..z supermarket')); ("~567*0.1 = ~56 kcal; bake: ~16:30; stop: ; note: ' on heat for ~4 minutes; baked on metal ...; start prepare or bake time-approximate-roughly '; ")
+
+16:40 eating: peanuts_baked_1(), greens-dill(~20g; 'bought-yesterday; from: b.., from another seller'); ("~567*0.2 = ~114 kcal; done-consuming: ~16:05; opinion: ' ... '; ")
+16:45 status: calorie-calculated: "~0 + 114 = ~114 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+16:55 status: " itchy "
+
+19:38 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+23:49 status: " slept after 19:38 till 23:40 "
+
+
+
+
+-[goods] day-calorie: "~378 +  114 +  000 +  000 +  000 +  000 +  000  = ~492 kcal "; 
+-[goods] day-calorie: "16:10, 16:45, 00000, 00000, 00000, 00000, 00000 =  2 times ";
+-[goods] tea(1-ts; '1ts=2g');
+-[goods] oil(~30-ml; '1ds=10ml; type: sunflower; default: sunflower; '), salt(~0.5-ml; '1ts=9ml=~11g');
+-[pipi] 04:51, 10:46, 23:42, 
+-[pipi] '340', '180', '520', 
+-[pipi] 'pale-yellow', 'yellow', 'light-yellow', 
+-[stool] no
+}
+
