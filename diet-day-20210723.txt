@@ -1,0 +1,86 @@
+// [2021.07.31 04:22:04] 
+// remove this line: 848325A2F0CE82E824DE58CF3FA021546320A91D046817A688C7821F506027B9
+
+--------------------------------------------------------------------------------
+23.07.2021 : " pipi-560,  2; water-total-2200; calorie-1589, 5; [ feels-ok 'good, no-pain' ] " {
+
+06:42 start (woke-up: 04:20, 06:10; active-thinking: 1; active: 06:35; stand-up: 06:42)
+
+06:43 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+07:46 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+08:28 prepare: tea_with_ginger_carrot_1 = boil(carrot(25g) +water(~250-ml; '~99°C or just hot') +coriander-seeds(5g; 'bought: 2021/07/17; packet: 2021/06/28; note: this is another one'; 08:44) +clove(4-cloves) +pepper-spicy(4g) +ginger-root(3g) +tea(1-ts; 08:50)); (" boil: 08:34 - 08:50; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+09:08 drinking: tea_with_ginger_carrot_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 09:22; ");
+09:08 eating: tea_with_ginger_carrot_1-ingredients() +garlic(18g; 'bought: 2021/07/17') +oil(~10-ml); ("~40*0.25+30*0.05+0+20*0.02+80*0.03+149*0.18+81*1 = ~122 kcal; done-consuming: 09:13; opinion: ' ... '; ")
+09:08 eating: eggplant(~30g), bell-pepper(60g), oil(~10-ml); ("~25*0.3+28*0.6+81*1 = ~000 kcal; done-consuming: 09:14; opinion: ' ... '; ")
+09:14 status: calorie-calculated: "~0 + 122 + 105 = ~227 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+09:27 prepare: walnuts_baked_1 = bake(walnuts(5-nuts; 'bought: 2021/07/17; from: o..a market')); ("~654*0.14 = ~91 kcal; bake: ; stop: 09:34; note: ' baked on metal ... '; ")
+
+12:02 eating: walnuts_baked_1(14g), garlic(~5g); ("~91+149*0.05 = ~98 kcal; done-consuming: 12:06; note: ' do not trust this market - poisoned by a food bought from this market in 2020 '; opinion: ' ... '; ")
+12:22 eating: walnuts(~3g; 'note: dry roasted in 2021/07/21, bought from b..m supermarket'); ("~91+149*0.05 = ~98 kcal; done-consuming: ~12:23; note: ' this b..m supermarket sold [slipped] cheese with worms [a few months ago] '; opinion: ' ... '; ")
+12:23 status: calorie-calculated: "~0 + 98 = ~98 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+11:36 status: " feels-ok good even better [no pain, no health issues] and working on a project [cognitive also is ok] " [line-added-time: 2021.07.23 15:15] 
+11:52 status: " discomfort in throat after consuming those walnuts "
+14:30 status: " pancreas-side or heart-side or stomach acidity increased [very slightly] ? " [line-added-time: 2021.07.23 14:38] 
+
+14:30 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:37 prepare: tea_with_spices_1 = boil(coriander-seeds(2g) +mint(~2g) +clove(4-cloves) +water(~250-ml; '~99°C or just hot') +pepper-spicy(3g; 02:44) +tea(1-ts; 02:45)); (" boil: 02:42 - 02:45; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+14:48 prepare: pecans_baked_1 = bake(pecans(2-nuts; 'in_shell')); ("~691*0.05 = ~34 kcal; bake: ; stop: 14:52; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+14:52 prepare: walnuts_baked_1 = bake(walnuts(2-nuts; 'in_shell; note: dry roasted in 2021/07/21, bought from b..m supermarket')); ("~654*0.1 = ~65 kcal; bake: ; stop: 14:54; note: ' on heat for ~2 minutes; nuts become darker [~too dark] ... '; ")
+
+14:58 drinking: tea_with_spices_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+14:58 eating: pecans_baked_1(), oil(~10-ml); ("~34+81*1 = ~115 kcal; done-consuming: 00000; opinion: ' ... '; ")
+15:02 eating: eggplant(28g), bell-pepper(17g), oil(~10-ml); ("~25*0.28+28*0.17+81*1 = ~93 kcal; done-consuming: 15:08; opinion: ' ... '; ")
+15:08 status: calorie-calculated: "~0 + 115 + 93 = ~208 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+17:11 eating: tea_with_spices_1-ingredients('almost all'); ("~30*0.02+20*0.03+81*0 = ~1 kcal; done-consuming: 17:14; opinion: ' ... '; ")
+17:14 status: calorie-calculated: "~0 + 1 = ~1 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+21:04 status: " walk 18:05 - 21:04 [went to supermarket] "
+
+21:15 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+21:58 prepare: fried_carrot_eggplant_onion_tomato_fish_egg_1 = fry(carrot(20g) +eggplant(70g) +water(~40-ml; 22:01) +bell-pepper(56g; 22:03) +onion(47g; 22:03) +oil(30-ml; 'type: grape_seed-oil'; 22:06) +tomato(~60g; 22:12) +salt(1-ml) +fish-sardines-canned(100g; 'bought: 2021/07/17; prd: ; from: a..z'; 22:15) +liquid(18g; 'from: fish-sardines-canned') +egg(1; '~60g; prd: 2021/07/14'; 22:17)); ("~41*0.2+25*0.7+28*0.56+40*0.47+81*3+74*0.6+160*1.18+154*0.6 = ~629 kcal; heating: [0]; stop: 22:22; note: ' fried in ~metal-pan years long ~tefal '; ")
+22:31 prepare: tea_with_ginger_carrot_1 = boil(coriander-seeds(1-ts; '2g') +mint(1-ts; '~1.5 g') +clove(4-cloves) +pepper-spicy(~2g) +tea(1-ts) +water(~250-ml; '~99°C or just hot')); (" boil: ; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+22:32 prepare: hazelnuts_baked_1 = bake(hazelnuts(20-nuts; 'in_shell; bought-today')); ("~628*0.1 = ~63 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+22:36 prepare: walnuts_baked_1 = bake(walnuts(5-nuts; 'in_shell; bought-today')); ("~654*0.1 = ~65 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+22:40 drinking: water(~100-ml) +citric-acid(~0.5-ml); (" reason: ' for-acidity '; note: ' ... '; ")
+
+22:41 eating: fried_carrot_eggplant_onion_tomato_fish_egg_1() +mint(~0.5-ts) +citric-acid(~0.5-ml), oil(~20-ml); ("~629+81*2 = ~791 kcal; done-consuming: 22:44; opinion: ' ... '; ")
+22:42 eating: garlic(7g); ("~149*0.07 = ~10 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:46 eating: fish-sardines-canned(~10g); ("~160*0.1 = ~16 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:46 status: calorie-calculated: "~791 + 10 + 16 = ~817 kcal"; " opinion: ' ... '; note: ' calories at once should be less than thousands '; ";
+
+22:58 drinking: tea_with_ginger_carrot_1-liquid() +citric-acid(~0.5-ml); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+22:58 eating: walnuts_baked_1(), hazelnuts_baked_1(), oil(~10-ml); ("~65+63+81*1 = ~209 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:26 eating: fish-sardines-canned(19g; 'prd: 2021/01/25; bought: 2021/07/17; warning: from can as is; manufactuer: Z..-R..u; barcode: 4.605463.003122'); ("~160*0.19 = ~30 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:28 status: calorie-calculated: "~0 + 209 + 30 = ~239 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:29 drinking: water(~100-ml) +citric-acid(~1-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+23:39 drinking: water(~200-ml) +citric-acid(~1-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+
+00:47 status: " calendar day is 2021/07/24 for the next data inside of this '23.07.2021' diet day block; " [line-added-time: 2021.07.25 13:56] 
+00:47 status: " itchy though not too much "
+
+02:02 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+
+
+
+-[goods] day-calorie: "~227  +  98 +  208 +  817  + 239 +  000 +  000  = ~1589 kcal "; 
+-[goods] day-calorie: "09:14, 12:06, 15:08, 22:46, 23:28, 00000, 00000 =  5 times ";
+-[goods] day-note: " water 3-litre heating: 21:13; boil: ; filled at ~17:50 from kitchen tap; boil for ~10 min. or more ";  
+-[goods] tea(3-ts; '1ts=2g');
+-[goods] oil(~100-ml; '1ds=10ml; type: sunflower, grape_seed; default: sunflower; '), salt(~1-ml; '1ts=9ml=~11g');
+-[pipi] 06:52, 17:24, 
+-[pipi] '260', '300', 
+-[pipi] '~yellow', 'yellow', 
+-[stool] 2021.07.24 00:56 'first push was the hardest one of the year [this is already constipation]'
+}
+
