@@ -1,0 +1,83 @@
+// [2021.07.30 17:59:18] 
+// remove this line: 4C935CB6FD3B5F7DE5AC55CFDA5EB4F585E9AC5523BF945E9B249C1D94F97F37
+
+--------------------------------------------------------------------------------
+20.07.2021 : " pipi-400,  2; water-total-1800; calorie-1359, 6; [ warning-health-liver-ache, itchy; 'ate after ~21 hours'; slept-5-hours; ] " {
+
+01:12 start (woke-up: ~01:05; active-thinking: 01:12; active: 01:12; stand-up: 02:03)
+
+04:38 status: " slept again after ~02:30 and woke-up at 04:29 "
+
+05:15 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+06:19 prepare: boiled_ginger_1 = boil(ginger-root(~5g) +carrot(15g) +cucumber(60g) +pepper-spicy(2g) +coriander-seeds(2g) +clove(2-cloves) +pumpkin-seeds(5g; 'bought: 2021/07/17') +water(~200-ml; '~99°C; [pre] boiled for ~5 min. [less than usual 10 min.]')); (" boil: 06:23 - 06:28; drain: 06:32; note: ' boiled in a ~plastic '; ");
+06:33 prepare: tea_with_ginger_carrot_1 = boil(boiled_ginger_1-liquid() +tea(1-ts)); (" note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+07:01 drinking: tea_with_ginger_carrot_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 07:14; ");
+07:01 eating: mix(cucumber(~30g) +salt(~0.5-ml) +lemon-juice(5g) +oil(~10-ml; 'type: grape_seed-oil')); ("~15*0.3+47*0.05+81*1 = ~88 kcal; done-consuming: 07:01; opinion: ' ... '; ")
+07:01 eating: mix(boiled_ginger_1-ingredients() +oil(~10-ml)); ("~80*0.05+41*0.15+15*0.6+20*0.02+39*0.02+559*0.05 = ~48 kcal; done-consuming: 07:01; opinion: ' ... '; ")
+07:05 eating: cucumber(20g), lemon(36g), garlic(13g); ("~15*0.2+47*0.36+149*0.13 = ~39 kcal; done-consuming: ~07:05; opinion: ' ... '; ")
+07:13 eating: chocolate-bitter-cacao_72(4g; 'only, Stevia'); ("~450*0.04 = ~18 kcal; done-consuming: 07:14; opinion: ' ... '; ")
+07:14 status: calorie-calculated: "~0 + 88 + 48 + 39 + 18 = ~193 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+12:18 prepare: walnuts_baked_1 = bake(walnuts(6-nuts; 'in_shell')); ("~654*0.1 = ~65 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+12:26 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+
+12:26 eating: lemon(38g), oil(~10-ml); ("~47*0.38+81*1 = ~98 kcal; done-consuming: 00000; opinion: ' ... '; ")
+12:26 status: calorie-calculated: "~0 + 98 = ~98 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+13:38 eating: tomato(80g), lemon(22g), oil(~10-ml); ("~74*0.8+47*0.22+81*1 = ~150 kcal; done-consuming: 00000; opinion: ' ... '; ")
+13:40 status: calorie-calculated: "~0 + 150 = ~150 kcal"; " opinion: ' ... '; note: ' liver-side '; ";
+
+13:40 prepare: fried_carrot_onion_tomato_fish_1 = fry(carrot(40g) +water(~40-ml; 13:44) +onion(45g; 13:46) +oil(20-ml; 'type: grape_seed-oil'; 14:48) +tomato(60g; 13:56) +cheese-feta(20g; 'bought: ~2021/07/17; from: b..o supermarket') +garlic(19g; 'bought: 2021/07/11') +fish-mackerel-canned(120g; 'bought: 2021/07/17; prd: 2020/12/21; note: another can; manufactuer: ...; '; 14:01) +oil(10-ml; 'type: grape_seed-oil'; 14:02) +salt(1-ml)); ("~41*0.4+000+40*0.45+81*3+74*0.6+286*0.2+149*0.19+160*1.2 = ~599 kcal; heating: [0]; bake: [0+1min]; boil: [0+3min]; fry: [0+7min]; stop: 14:08; note: ' fried in ~metal-pan years long ~tefal '; ")
+
+14:19 eating: fried_carrot_onion_tomato_fish_1() +salt(~1-ml) +citric-acid(~0.5-ml) +oil(~10-ml); ("~599+81*1 = ~680 kcal; done-consuming: 00000; opinion: ' ... '; ")
+14:19 eating: garlic(~10g; 'bought: 2021/07/17'); ("~149*0.1 = ~15 kcal; done-consuming: 00000; opinion: ' ... '; ")
+14:24 status: calorie-calculated: "~680 + 15 = ~695 kcal"; " opinion: ' ... '; note: ' stomach-ache ? '; ";
+
+14:42 prepare: tea_with_ginger_etc_1 = boil(ginger-root(4g) +coriander-seeds(2g) +mint(2g) +clove(4-cloves) +water(~250-ml; '~99°C or just hot') +pepper-spicy(2g; 14:49) +tea(1-ts; 14:50)); (" boil: 14:48 - 14:50; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+14:52 drinking: water(~100-ml) +citric-acid(~0.5-ml); (" reason: ' needed '; note: ' ... '; ")
+
+15:02 prepare: almonds_baked_1 = bake(almonds(6g)); ("~579*0.06 = ~35 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+15:07 drinking: tea_with_ginger_etc_1-liquid() +citric-acid(~0.5-ml); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 15:17; ");
+15:07 eating: tea_with_ginger_etc_1-ginger(); ("~80*0.04 = ~3 kcal; done-consuming: 15:17; opinion: ' ... '; ")
+15:07 eating: walnuts_baked_1(15g), almonds_baked_1(); ("~654*0.15+35 = ~133 kcal; done-consuming: 15:16; opinion: ' ... '; ")
+15:16 status: calorie-calculated: "~0 + 3 + 133 = ~136 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+15:59 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+
+16:13 status: " liver-side-ache, dull annoying ache [almost after each food and even water] "
+16:30 status: " ok "
+16:38 status: " itchy back "
+
+16:47 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+
+17:15 status: " itchy arms and legs "
+17:16 status: " hot [too hot] even hard to breath and nothing [there] to cool the room temperature "
+
+17:40 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+18:33 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+18:48 eating: cucumber(42g) +citric-acid(~0.25-ml) +salt(~0.1-ml), oil(~10-ml); ("~15*0.42+81*1 = ~87 kcal; done-consuming: 00000; opinion: ' ... '; ")
+18:52 status: calorie-calculated: "~0 + 87 = ~87 kcal"; " opinion: ' ... '; note: ' liver-side '; ";
+
+19:35 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+23:39 status: " slept after ~22:00, woke-up at 23:39 and slept after a few minutes " [line-added-time: 2021.07.21 07:11] 
+
+
+
+
+-[goods] day-calorie: "~193  + 98  +  150 +  695 +  136  +  87 +  000  = ~1359 kcal "; 
+-[goods] day-calorie: "07:14, 12:26, 13:40, 14:24, 15:16, 18:52, 00000 =  6 times ";
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~70-ml; '1ds=10ml; type: sunflower, grape_seed; default: sunflower; '), salt(~2.6-ml; '1ts=9ml=~11g');
+-[pipi] 05:54, 15:03, 
+-[pipi] '220', '180', 
+-[pipi] 'strong-yellow', '~strong-yellow'
+-[stool] no
+}
+
