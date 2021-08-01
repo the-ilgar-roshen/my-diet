@@ -1,0 +1,97 @@
+// [2021.08.01 20:20:50] 
+// remove this line: 08DB51CC4D63759156355A55FFDA68C61FDA74F9E170A883EDF7BD4B5D18304C
+
+--------------------------------------------------------------------------------
+26.07.2021 : " pipi-980,  3; water-total-2200; calorie-2449, 6; [ slept-3-hours ] " {
+
+03:10 start (woke-up: 02:51; active-thinking: 1; active: 1; stand-up: 03:10)
+
+03:10 prepare: cucumber_garlic_lemon_from_yesterday_1 = cucumber_garlic_lemon_1("from-date: 2021.07.25 21:02; ingredients: cucumber(47g) +garlic(20g) +lemon(22g) +salt(~0.5-ml)"); ("~47*1 = ~47 kcal; note: ' left in plastic [as usually] '; ")
+
+03:12 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+04:01 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+04:57 prepare: carrot_and_seeds_boiled_1 = boil(carrot(10g) +coriander-seeds(2g) +pumpkin-seeds(5g) +sunflower-seeds(10g; 'bought: 2021/07/25') +water(~250-ml; '~99°C or just hot')); ("~41*0.1+30*0.02+559*0.05+584*0.1 = ~91 kcal; boil: 05:01 - 05:08; note: ' boiled in a ~plastic '; ");
+05:17 prepare: tea_with_clove_1 = boil(carrot_and_seeds_boiled_1-liquid() +clove(4-cloves) +pepper-spicy(2g) +tea(1-ts; 05:19)); (" boil: 05:17 - 05:19; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+05:23 prepare: hazelnuts_baked_1 = bake(hazelnuts(12-nuts; 'in_shell; bought: 2021/07/23')); ("~628*0.12 = ~75 kcal; bake: ; stop: 05:29; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+05:29 prepare: walnuts_baked_1 = bake(walnuts(10-nuts; 'in_shell; bought: ~2021/07/25')); ("~654*0.14 = ~91 kcal; bake: ; stop: 05:35; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+05:52 drinking: tea_with_clove_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+05:52 eating: cucumber_garlic_lemon_from_yesterday_1() +oil(~10-ml); ("~47+81*1 = ~128 kcal; done-consuming: 06:00; opinion: ' ... '; ")
+05:52 eating: carrot_and_seeds_boiled_1-ingredients() +oil(~10-ml; 'type: oil-olive-extra-virgin'); ("~91+81*1 = ~172 kcal; done-consuming: 05:57; opinion: ' ... '; ")
+05:52 eating: walnuts_baked_1(14g), hazelnuts_baked_1(12g); ("~91+75 = ~166 kcal; done-consuming: 00000; opinion: ' ... '; ")
+06:18 eating: lemon(10g; 'note: with-peel of course, as usually'); ("~47*0.1 = ~5 kcal; done-consuming: 00000; opinion: ' ... '; ")
+06:19 status: calorie-calculated: "~0 + 128 + 172 + 166 + 5 = ~471 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+09:20 eating: fish-sprat-canned(~63g; 'type: in_tomato-souce; bought: 2021/07/17 14:15 [very low day 26]; prd: 2021/02/10; barcode: 4.605463.000015; from: b..o supermarket'; 21:42), oil(~10-ml); ("~160*0.63+81*1 = ~182 kcal; done-consuming: 00000; opinion: ' ... '; ")
+09:20 eating: lemon(20g); ("~47*0.2 = ~9 kcal; done-consuming: 00000; opinion: ' ... '; ")
+09:22 status: calorie-calculated: "~182 + 9 = ~191 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+09:30 drinking: water(~200-ml) +citric-acid(~0.5-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+09:36 prepare: tea_with_mint_1 = brew(coriander-seeds(2g) +clove(4-cloves) +mint(1-pinch) +water(~250-ml; '~99°C or just hot') +tea(1-ts; 09:41)); (" note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+09:55 prepare: peanuts_baked_1 = bake(peanuts(34g)); ("~567*0.34 = ~192 kcal; bake: ; stop: 10:00; note: ' till turn dark; on heat for ~4 minutes; baked on metal ... '; ")
+
+10:11 drinking: tea_with_mint_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 10:22; ");
+10:11 eating: peanuts_baked_1(); ("~192+81*0 = ~192 kcal; done-consuming: 10:21; opinion: ' ... '; ")
+10:21 status: calorie-calculated: "~0 + 192 = ~192 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+13:05 status: " outside 10:29 - 13:05 [to city downtown ... in a car ...] "
+
+13:47 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+14:31 status: " snack vegs "
+
+16:48 eating: onion(25g), garlic(~8g), cucumber(10g), oil(~20-ml; 'type: grape_seed-oil'); ("~40*0.25+149*0.08+15*0.1+81*2 = ~185 kcal; done-consuming: 10:21; opinion: ' ... '; ")
+16:51 status: calorie-calculated: "~0 + 185 = ~185 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+18:21 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+21:10 status: " walk 18:39 - 21:10 "
+
+22:13 prepare: fried_carrot_eggplant_onion_tomato_fish_egg_1 = fry(carrot(42g) +eggplant(51g) +water(~100-ml; 22:17) +onion(~110g; 22:19) +garlic(31g; 22:24) +oil(20-ml; 'type: oil-olive-extra-virgin'; 22:30) +oil(20-ml; 'type: grape_seed-oil') +tomato(92g; 22:34) +salt(1-ml) +cheese-feta(12g; 'bought-today') +cheese-white(20g; 'bought-today') +fish-salmon-canned(62g; 'bought: 2021/07/17; prd: 2020/08/28'; 22:37) +egg(~55g; 'amount: 1-whole; measured-by: size; prd: 2021/07/23'; 22:37); ("~41*0.42+25*0.5+40*1.1+149*0.31+81*4+74*0.92+286*0.32+160*0.62+154*0.55 = ~787 kcal; heating: [0]; stop: 22:42; note: ' fried in ~metal-pan years long ~tefal '; ")
+
+22:15 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+22:30 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' time-approximate '; ") [line-added-time: 2021.07.26 23:48] 
+
+22:30 eating: lemon(15g); ("~47*0.15 = ~7 kcal; done-consuming: 00000; opinion: ' ... '; ") [line-added-time: 2021.07.26 23:49] 
+22:47 eating: fried_carrot_eggplant_onion_tomato_fish_egg_1() +oil(~5-ml; 'type: oil-olive-extra-virgin') +butter(6g; 'note: melted till boil point; bought: 2021/07/25; brand: Val..'); ("~787+81*1+717*0.06 = ~911 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:47 eating: cheese-white(~15g; 'bought-today'), cheese-feta(10g), garlic(18g), oil(~10-ml); ("~286*0.25+149*0.18+81*1 = ~179 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:47 eating: fish-salmon-canned(47g; 'note: as is from can; bought: 2021/07/17; prd: 2020/08/28; brand: Ka..a'); ("~160*0.47 = ~75 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:01 status: calorie-calculated: "~7 + 911 + 179 + 75 = ~1172 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:22 drinking: water(~50-ml) +citric-acid(~0.5-ml); (" reason: ' for-acidity '; note: ' ... '; ")
+
+23:30 prepare: tea_with_clove_mint_1 = brew(tea(1-ts) +clove(4-cloves) +mint(1-pinch) +water(~250-ml; '~99°C or just hot')); (" note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+23:47 prepare: hazelnuts_baked_2 = bake(hazelnuts(20-nuts)); ("~628*0.2 = ~126 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+23:47 prepare: walnuts_baked_2 = bake(walnuts(5-nuts; 'in_shell')); ("~654*0.1 = ~65 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+
+00:20 status: " calendar day is 2021/07/27 for the next data inside of this '26.07.2021' diet day block; " 
+
+00:20 drinking: tea_with_clove_mint_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+00:20 eating: mix(cucumber(23g) +citric-acid(~0.5-ml) +salt(~0.5-ml) +oil(~5-ml)), cucumber(21g); ("~15*0.23+81*0.5+15*0.21 = ~47 kcal; done-consuming: 00000; opinion: ' ... '; ")
+00:20 eating: walnuts_baked_2(10g), hazelnuts_baked_2(20g); ("~126+65 = ~191 kcal; done-consuming: 00000; opinion: ' ... '; ")
+00:36 status: calorie-calculated: "~0 + 47 + 191 = ~238 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+00:39 status: " heart-beat-husky "
+
+03:07 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+
+
+
+
+-[goods] day-calorie: "~471 +  191 +  192 +  185 +  1172 + 238 +  000  = ~2449 kcal "; 
+-[goods] day-calorie: "06:19, 09:22, 10:21, 16:51, 23:01, 00:36, 00000 =  6 times ";
+-[goods] day-nutrients: " Calories: 2326.45; Carbs: 81.02; Lipids: 196.21; Proteins: 66.97 ";
+-[goods] day-USDA: " http://127.0.0.1/miniweb_usda/?r=usda/compare/foods/picked&pick_ndb=04642, 04517, 04053, 01145, 11124, 11529, 11205, 11209, 11215, 11282, 09150, 01129, 15260, 12120, 12155, 16087, 01019, 12014, 12036, 02013&input_ndb_cmp=04642, 04517, 04053, 01145, 11124, 11529, 11205, 11209, 11215, 11282, 09150, 01129, 15260, 12120, 12155, 16087, 01019, 12014, 12036, 02013&recommended_intake=1&amount_factor[04642]=30&amount_factor[04517]=40&amount_factor[04053]=40&amount_factor[01145]=10&amount_factor[11124]=50&amount_factor[11529]=100&amount_factor[11205]=100&amount_factor[11209]=50&amount_factor[11215]=80&amount_factor[11282]=120&amount_factor[09150]=80&amount_factor[01129]=50&amount_factor[15260]=100&amount_factor[12120]=30&amount_factor[12155]=20&amount_factor[16087]=30&amount_factor[01019]=60&amount_factor[12014]=5&amount_factor[12036]=10&amount_factor[02013]=5 ";
+-[goods] day-note: " water 3-litre heating: 22:39; boil: 23:21; filled at 22:39 from kitchen tap; boil for ~10 min. or more ";  
+-[goods] tea(3-ts; '1ts=2g');
+-[goods] oil(~110-ml; '1ds=10ml; type: sunflower=25, grape_seed-oil=40, oil-olive-extra-virgin=45; default: sunflower; ');
+-[goods] salt(~2-ml; '1ts=9ml=~11g');
+-[pipi] 07:00, 09:57, 18:22, 
+-[pipi] '260', '300', '260', 
+-[pipi] '~strong-yellow [time-approximate-roughly; data-add-time-time: 2021.07.26 07:20]', 'yellow, blur', 'strong-yellow', 
+-[stool] no
+}
+
