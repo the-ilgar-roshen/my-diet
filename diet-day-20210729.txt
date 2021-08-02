@@ -1,0 +1,75 @@
+// [2021.08.01 22:00:27] 
+// remove this line: 0F70FDE5B74C71D80359C08131578CEBE3D402F61A0C4043A29906D83DC04370
+
+--------------------------------------------------------------------------------
+29.07.2021 : " pipi-1080, 3; water-total-1700; calorie-1805, 0; [ health-issues 'tongue-white, pancreas-side or heart-pain' ] " {
+
+11:25 start (woke-up: 07:24, 10:56; active-thinking: 1; active: 1; stand-up: 11:25)
+
+11:26 status: " slept half-awake after 07:24, sleep was pulling in many times [was trying to stay awake] "
+11:27 status: " mouth-dry, feels-not-fresh [again ?] "
+11:28 status: " pancreas-side or heart-pain ? though on palms of hands no red spots "
+11:57 status: " warning: health-tongue-white just the surface of the tongue is ~white or unusual pale "
+12:01 status: " maybe eating cheese raw and eating fresh canned fish fromits can as is caused this "
+12:03 status: " hydreated well according to urine color so, this might be bacterial issue from cheese or fish " [write-time: 2021.07.29 12:03] 
+
+12:03 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+12:23 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' actually to keep hydration well '; ")
+
+12:47 prepare: carrot_boiled_1 = boil(carrot(~15g) +coriander-seeds(2g) +sunflower-seeds(10g; 'rinsed') +water(~200-ml; '~99°C')); ("~41*0.15+30*0.02+584*0.1 = ~65 kcal; boil: 12:53 - 13:03; note: ' boiled in a ~plastic for ~4 minutes; '; ");
+12:56 prepare: cucumber_with_oil_1 = mix(cucumber(~25g) +oil(~10-ml; 'type: grape_seed-oil')) +tomato(15g; ~22:00); ("~15*0.25+81*1+74*0.15 = ~96 kcal; note: ' ... ; '; ");
+13:05 prepare: tea_with_cloves_1 = boil(clove(5-cloves) +mint(1-pinch) +water(~200-ml; 'hot') +tea(1-ts; 13:11)); (" boil: 13:08 - 13:11; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+
+13:15 drinking: carrot_boiled_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 13:25; ");
+13:16 eating: cucumber(25g), bell-pepper(25g), eggplant(15g); ("~15*0.25+28*0.25+25*0.15 = ~14 kcal; done-consuming: 13:28; opinion: ' ... '; ")
+13:22 drinking: tea_with_ginger_carrot_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+13:22 eating: mix(carrot_boiled_1-ingredients() +salt(~0.25-ml) +oil(~10-ml; 'type: grape_seed-oil')); ("~65+81*1 = ~146 kcal; done-consuming: 13:27; opinion: ' ... '; ")
+13:28 status: calorie-calculated: "~0 + 14 + 0 + 146 = ~160 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+18:25 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+21:03 status: " walk 18:39 - 21:03 [supermarket] "
+
+21:37 drinking: water(~200-ml); (" reason: ' for-hydration '; note: ' ... '; ")
+
+22:06 prepare: fried_carrot_onion_tomato_fish_cheese_egg_1 = fry(carrot(30g) +eggplant(~40g) +onion(~85g) +water(~40-ml; 22:08) +oil(20-ml; 'type: oil-olive-extra-virgin'; 22:14) +tomato(52g; 22:15) +salt(~0.5-ml) +fish-sardines-canned(120g; 'bought-today'; 22:22) +liquid(20g; 'from: fish-sardines-canned') +garlic(50g; 'bought: 2021/07/26'; 22:22) +bell-pepper(50g) +oil(~10-ml; 'type: grape_seed-oil'; 22:25) +butter(~5g; 'bought: 2021/07/25'; 22:25) +cheese-white(15g; 'bought: 2021/07/25; brand: Seki; note: warning, low-day'; 22:26) +egg(~55g; 'note: 1 whole; prd: 2021/07/23'; 22:27)); ("~41*0.3+25*0.4+40*0.85+81*2+74*0.52+160*1.4+149*0.5+28*0.5+717*0.05+286*0.15+154*0.55 = ~732 kcal; heating: [0]; stop: 22:30; note: ' fried in ~metal-pan years long ~tefal '; ")
+
+22:20 eating: fish-herring-canned(28g; 'note: from-yesterday, consumed as is'); ("~203*0.28 = ~57 kcal; done-consuming: 00000; opinion: ' not as well as in yesterday '; note: ' time-approximate-roughly '; ")
+22:36 eating: fried_carrot_onion_tomato_fish_cheese_egg_1() +cheese-white(5g; 'ok one') +salt(~0.5-ml) +oil(~10-ml); ("~732+286*0.05+81*1 = ~827 kcal; done-consuming: 00000; opinion: ' ... '; ")
+22:41 status: calorie-calculated: "~57 + 827 = ~57 + 827 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:08 prepare: tea_with_clove_1 = brew(clove(4-cloves) +mint(2-pinch) +coriander-seeds(1-ts) +water(~200-ml; '~99°C') +tea(1-ts; 23:11)); (" boil; 23:09 - 23:11; note: ' tea brewed in a ~plastic; drinking in ~plastic; '; ");
+23:11 prepare: hazelnuts_baked_1 = bake(hazelnuts(20-nuts; 'in_shell; bought-today')); ("~628*0.2 = ~126 kcal; bake: ; stop: ; note: ' on heat for ~6 minutes; baked on metal ... '; ")
+23:20 prepare: peanuts_baked_1 = bake(peanuts(50g; 'bought-today')); ("~567*0.5 = ~283 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+23:28 prepare: sunflower_seeds_baked_1 = bake(sunflower-seeds(30g)); ("~584*0.3 = ~175 kcal; bake: ; stop: ; note: ' on heat for ~4 minutes; baked on metal ... '; ")
+
+23:42 drinking: tea_with_clove_1-liquid(); ("~0 kcal; volume: ~200-ml; opinion: ' ... '; done: 00000; ");
+23:42 eating: cucumber_with_oil_1() +salt(~0.5-ml), oil(~10-ml); ("~96+81*1 = ~177 kcal; done-consuming: 00000; opinion: ' ... '; ")
+23:42 eating: hazelnuts_baked_1(), peanuts_baked_1(), hazelnuts_baked_1(); ("~126+283+175+81*0 = ~584 kcal; done-consuming: 23:59; opinion: ' ... '; ")
+23:59 status: calorie-calculated: "~0 + 177 + 584 = ~761 kcal"; " opinion: ' ... '; note: ' ... '; ";
+
+23:59 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+
+
+00:10 status: " calendar day is 2021/07/30 for the next data inside of this '29.07.2021' diet day block; " 
+
+00:10 drinking: water(~200-ml); (" reason: ' needed '; note: ' ... '; ")
+01:03 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+01:25 drinking: water(~200-ml); (" reason: ' needed-a-little '; note: ' ... '; ")
+
+07:22 status: " ... "
+
+
+
+
+-[goods] day-calorie: "~160 +  884 +  761 +  000 +  000 +  000 +  000  = ~1805 kcal "; 
+-[goods] day-calorie: "13:28, 22:41, 23:59, 00000, 00000, 00000, 00000 =  3 times ";
+-[goods] day-note: " water 3-litre heating: 22:29; boil: 22:58; filled at ~22:00 from kitchen tap; boil for ~10 min. or more ";  
+-[goods] tea(2-ts; '1ts=2g');
+-[goods] oil(~70-ml; '1ds=10ml; type: sunflower, grape_seed; default: sunflower; '), salt(~1.75-ml; '1ts=9ml=~11g');
+-[pipi] 11:52, 16:12, 23:38, 
+-[pipi] '420', '420', '260', 
+-[pipi] 'yellow', 'pale-green', 'yellow', 
+-[stool] 16:20 ' [data-add-time: 2021.07.30 01:26] '
+}
+
